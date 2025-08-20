@@ -9,6 +9,11 @@ alternate_urls:
 -   /adonis
 versionCommand: npm list --depth=0  @adonisjs/core
 
+
+identifiers:
+  - cpe: hoge
+  - purl: fuga
+
 auto:
   methods:
     - git: https://github.com/adonisjs/core.git
