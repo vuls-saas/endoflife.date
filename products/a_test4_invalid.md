@@ -1,3 +1,34 @@
+---
+title: AdonisJS
+addedAt: 2025-08-18
+category: framework
+tags: javascript-runtime
+iconSlug: adonisjs
+permalink: /adonisjs
+alternate_urls:
+-   /adonis
+versionCommand: npm list --depth=0  @adonisjs/core
+
+
+identifiers:
+  - cpe: hoge
+  - purl: fuga
+
+auto:
+  methods:
+    - git: https://github.com/adonisjs/core.git
+
+# eol(x) = releaseDate(x+1)
+releases:
+  - releaseCycle: "6"
+    releaseDate: 2023-02-20
+    eol: false
+    latest: "6.19.0"
+    latestReleaseDate: 2025-06-17
+
+
+---
+
 > [AdonisJS](https://adonisjs.com/) AdonisJS is a TypeScript-first web framework for building web apps and API servers.
 > It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 
