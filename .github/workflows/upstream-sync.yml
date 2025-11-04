@@ -3,7 +3,7 @@ name: Sync from Upstream
 on:
   workflow_dispatch: # Manually run workflow
   schedule:
-    - cron: "0 0 * * *" # Run daily at 00:00 UTC
+    - cron: "0 0 * * 3" # Run weekly on Wednesday at 00:00 UTC
 
 jobs:
   sync:
