@@ -14,6 +14,7 @@ changelogTemplate: https://github.com/opentofu/opentofu/blob/v__LATEST__/CHANGEL
 identifiers:
   - repology: opentofu
   - purl: pkg:github/opentofu/opentofu
+  - purl: pkg:golang/github.com/opentofu/opentofu
   - purl: pkg:oci/opentofu?repository_url=ghcr.io/opentofu
 
 auto:

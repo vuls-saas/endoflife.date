@@ -11,6 +11,7 @@ changelogTemplate: https://ant.apache.org/antnews.html
 versionCommand: ant -version
 
 identifiers:
+  - purl: pkg:github/apache/ant
   - cpe: cpe:/a:apache:ant
   - cpe: cpe:2.3:a:apache:ant
   - repology: ant

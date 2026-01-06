@@ -10,6 +10,11 @@ changelogTemplate: "https://github.com/jreleaser/jreleaser/releases/tag/v__LATES
 eoasColumn: true
 eolColumn: Security Support
 
+identifiers:
+  - repology: jhipster
+  - purl: pkg:github/jreleaser/jreleaser
+  - purl: pkg:maven/org.jreleaser/jreleaser
+
 auto:
   methods:
     - maven: org.jreleaser/jreleaser

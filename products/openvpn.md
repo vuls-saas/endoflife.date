@@ -14,6 +14,7 @@ auto:
 
 identifiers:
   - repology: openvpn
+  - purl: pkg:github/openvpn/openvpn
 
 # releaseDate and eol https://community.openvpn.net/openvpn/wiki/SupportedVersions
 releases:

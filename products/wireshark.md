@@ -18,6 +18,7 @@ auto:
 
 identifiers:
   - repology: wireshark
+  - purl: pkg:github/wireshark/wireshark
   - purl: pkg:docker/linuxserver/wireshark
   - purl: pkg:docker/linuxserver/wireshark?repository_url=lscr.io
   - cpe: cpe:2.3:a:wireshark:wireshark

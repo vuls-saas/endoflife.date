@@ -10,6 +10,7 @@ eolColumn: Supported
 
 identifiers:
   - repology: cfengine
+  - purl: pkg:github/cfengine/core
   - purl: pkg:brew/cfengine
   - cpe: cpe:2.3:a:gnu:cfengine
   - cpe: cpe:/a:gnu:cfengine

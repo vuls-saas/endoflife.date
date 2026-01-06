@@ -19,6 +19,9 @@ customFields:
 
 identifiers:
   - repology: eslint
+  - purl: pkg:github/eslint/eslint
+  - purl: pkg:npm/eslint
+  - purl: pkg:maven/org.mvnpm/eslint
 
 auto:
   methods:
