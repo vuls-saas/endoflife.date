@@ -13,6 +13,8 @@ identifiers:
   - repology: docker-ce
   - repology: docker-containers
   - repology: moby
+  - purl: pkg:github/moby/moby
+  - purl: pkg:golang/github.com/moby/moby
   - cpe: cpe:2.3:a:docker:engine
   - cpe: cpe:/a:docker:engine
 

@@ -12,6 +12,7 @@ changelogTemplate: https://github.com/hashicorp/terraform/blob/v__LATEST__/CHANG
 identifiers:
   - repology: terraform
   - purl: pkg:github/hashicorp/terraform
+  - purl: pkg:golang/github.com/hashicorp/terraform
   - purl: pkg:generic/terraform
 
 auto:

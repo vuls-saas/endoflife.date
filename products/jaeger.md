@@ -10,6 +10,8 @@ eolColumn: Security Support
 
 identifiers:
   - repology: jaeger
+  - purl: pkg:github/jaegertracing/jaeger
+  - purl: pkg:golang/github.com/jaegertracing/jaeger
 
 auto:
   methods:
