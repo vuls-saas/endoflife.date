@@ -9,6 +9,7 @@ changelogTemplate: "https://github.com/Cisco-Talos/clamav/releases/tag/clamav-__
 
 identifiers:
   - repology: clamav
+  - purl: pkg:github/cisco-talos/clamav
   - cpe: cpe:2.3:a:clamav:clamav
   - cpe: cpe:/a:clamav:clamav
   - cpe: cpe:2.3:a:cisco:clam_antivirus
