@@ -15,6 +15,7 @@ eolColumn: Support
 
 identifiers:
   - repology: maven
+  - purl: pkg:github/apache/maven
   - cpe: cpe:/a:apache:maven
   - cpe: cpe:2.3:a:apache:maven
   - repology: maven-shared-utils
@@ -94,5 +95,5 @@ releases:
 > Based on the concept of a project object model (POM), Maven can manage a project's build,
 > reporting and documentation from a central piece of information.
 
-Apache Maven follows [semantic versioning](https://semver.org). The Apache Maven team maintains 
+Apache Maven follows [semantic versioning](https://semver.org). The Apache Maven team maintains
 the [two last minor versions](https://maven.apache.org/docs/history.html).

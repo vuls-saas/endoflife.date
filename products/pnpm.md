@@ -11,6 +11,7 @@ changelogTemplate: "https://github.com/pnpm/pnpm/releases/tag/v__LATEST__"
 eolColumn: Support
 
 identifiers:
+  - purl: pkg:github/pnpm/pnpm
   - purl: pkg:npm/pnpm
   - repology: pnpm
 

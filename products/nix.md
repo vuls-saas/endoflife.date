@@ -12,6 +12,7 @@ changelogTemplate: https://nix.dev/manual/nix/latest/release-notes/rl-__RELEASE_
 
 identifiers:
   - repology: nix
+  - purl: pkg:github/nixos/nix
 
 auto:
   methods:

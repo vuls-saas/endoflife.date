@@ -10,6 +10,7 @@ eolColumn: Support Status
 
 identifiers:
   - repology: libreoffice
+  - purl: pkg:maven/org.libreoffice/libreoffice
   - cpe: cpe:/a:libreoffice:libreoffice
   - cpe: cpe:2.3:a:libreoffice:libreoffice
 

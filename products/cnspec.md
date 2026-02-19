@@ -13,6 +13,7 @@ identifiers:
   - cpe: cpe:2.3:a:cnspec:cnspec
   - repology: cnspec
   - purl: pkg:github/mondoohq/cnspec
+  - purl: pkg:golang/go.mondoo.com/cnspec
   - purl: pkg:docker/mondoo/cnspec
 
 auto:

@@ -14,6 +14,9 @@ auto:
 identifiers:
   - repology: goaccess
   - purl: pkg:docker/allinurl/goaccess
+  - purl: pkg:github/allinurl/goaccess
+  - purl: pkg:golang/github.com/allinurl/goaccess
+
 # eol(x) = releaseDate(x+1)
 releases:
   - releaseCycle: "1"
