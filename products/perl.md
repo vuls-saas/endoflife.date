@@ -15,6 +15,7 @@ identifiers:
   - purl: pkg:apk/alpine/perl
   - purl: pkg:deb/debian/perl
   - purl: pkg:generic/perl
+  - purl: pkg:github/perl/perl5
   - repology: perl
   - cpe: cpe:2.3:a:perl:perl
   - cpe: cpe:/a:perl:perl

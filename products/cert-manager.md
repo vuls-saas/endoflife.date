@@ -13,6 +13,7 @@ eolColumn: Support
 
 identifiers:
   - repology: cert-manager
+  - purl: pkg:github/cert-manager/cert-manager
 
 auto:
   methods:

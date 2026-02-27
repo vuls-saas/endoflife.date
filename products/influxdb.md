@@ -14,6 +14,7 @@ eoasColumn: false
 
 identifiers:
   - repology: influxdb
+  - purl: pkg:github/influxdata/influxdb
 
 auto:
   methods:

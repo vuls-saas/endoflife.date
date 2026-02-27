@@ -12,6 +12,7 @@ changelogTemplate: "https://gitbox.apache.org/repos/asf?p=cassandra.git;a=blob_p
 
 identifiers:
   - repology: cassandra
+  - purl: pkg:github/apache/cassandra
   - cpe: cpe:/a:apache:cassandra
   - cpe: cpe:2.3:a:apache:cassandra
 

@@ -10,6 +10,9 @@ versionCommand: software-version
 releasePolicyLink: https://xcp-ng.org/docs/releases.html
 eolColumn: Support
 
+
+identifiers:
+  - purl: pkg:github/xcp-ng/xcp-ng-release
 auto:
   methods:
     - git: https://github.com/xcp-ng/xcp-ng-release.git

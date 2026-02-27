@@ -11,6 +11,7 @@ eolColumn: Support
 
 identifiers:
   - purl: pkg:docker/sourcegraph/sg
+  - purl: pkg:github/sourcegraph/deploy-sourcegraph-docker
 
 auto:
   methods:

@@ -18,6 +18,7 @@ customFields:
 
 identifiers:
   - repology: plone
+  - purl: pkg:github/plone/products.cmfplone
 
 auto:
   methods:

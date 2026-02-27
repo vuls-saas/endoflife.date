@@ -24,6 +24,7 @@ auto:
 
 identifiers:
   - repology: forgejo
+  - purl: pkg:generic/forgejo?repository_url=https://codeberg.org/forgejo/forgejo.git
 
 # eol dates: https://forgejo.org/releases/ or https://forgejo.org/docs/latest/admin/release-schedule/
 releases:

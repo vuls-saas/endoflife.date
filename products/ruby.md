@@ -24,6 +24,7 @@ identifiers:
   - repology: ruby
   - purl: pkg:docker/library/ruby
   - purl: pkg:generic/ruby
+  - purl: pkg:github/ruby/ruby
 
 releases:
   - releaseCycle: "4.0"

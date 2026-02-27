@@ -13,6 +13,7 @@ eoasColumn: true
 
 identifiers:
   - purl: pkg:composer/neos/neos
+  - purl: pkg:github/neos/neos
 
 auto:
   methods:

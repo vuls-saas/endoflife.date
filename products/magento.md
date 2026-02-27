@@ -24,6 +24,7 @@ customFields:
 identifiers:
   - cpe: cpe:/a:magento:magento
   - cpe: cpe:2.3:a:magento:magento
+  - purl: pkg:github/magento/magento2
 
 auto:
   methods:

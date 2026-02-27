@@ -9,6 +9,9 @@ alternate_urls:
 releasePolicyLink: https://github.com/bigbluebutton/bigbluebutton/security
 changelogTemplate: https://github.com/bigbluebutton/bigbluebutton/releases/tag/v__LATEST__
 
+
+identifiers:
+  - purl: pkg:github/bigbluebutton/bigbluebutton
 auto:
   methods:
     - github_releases: bigbluebutton/bigbluebutton

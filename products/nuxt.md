@@ -14,6 +14,7 @@ eoesColumn: Commercial Support
 identifiers:
   - cpe: cpe:/a:nuxt:framework
   - cpe: cpe:2.3:a:nuxt:framework
+  - purl: pkg:npm/nuxt
 
 auto:
   methods:

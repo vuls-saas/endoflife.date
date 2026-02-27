@@ -9,6 +9,7 @@ eolColumn: Active Support
 
 identifiers:
   - repology: weechat
+  - purl: pkg:github/weechat/weechat
   - cpe: cpe:/a:weechat:weechat
   - cpe: cpe:2.3:a:weechat:weechat
 

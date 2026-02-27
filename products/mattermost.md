@@ -26,6 +26,7 @@ auto:
 
 identifiers:
   - repology: mattermost
+  - purl: pkg:github/mattermost/mattermost-server
 
 # releaseDate and eol see: https://docs.mattermost.com/about/mattermost-server-releases.html
 releases:

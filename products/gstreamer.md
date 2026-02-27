@@ -11,6 +11,7 @@ eolColumn: Supported
 
 identifiers:
   - repology: gstreamer
+  - purl: pkg:generic/gstreamer?repository_url=https://gitlab.freedesktop.org/gstreamer/gstreamer.git
   - cpe: cpe:/a:gstreamer:gstreamer
   - cpe: cpe:2.3:a:gstreamer:gstreamer
   - cpe: cpe:/a:gstreamer_project:gstreamer

@@ -20,6 +20,7 @@ auto:
 identifiers:
   - cpe: cpe:2.3:a:linuxfoundation:yocto
   - cpe: cpe:/a:linuxfoundation:yocto
+  - purl: pkg:github/yoctoproject/poky
 
 # for eol see https://wiki.yoctoproject.org/wiki/Releases and https://docs.yoctoproject.org/dev/_images/releases.svg
 # eol(x) = releaseDate(x) + 7 month

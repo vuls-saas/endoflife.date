@@ -16,6 +16,8 @@ identifiers:
   - cpe: cpe:/a:apache:struts
   - cpe: cpe:2.3:a:apache:struts
   - purl: pkg:maven/org.apache.struts/struts2-core
+  - purl: pkg:maven/org.apache.struts/struts-core
+  - purl: pkg:maven/struts/struts
 
 auto:
   methods:

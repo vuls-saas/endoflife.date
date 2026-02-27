@@ -14,6 +14,7 @@ auto:
 
 identifiers:
   - repology: telegraf
+  - purl: pkg:github/influxdata/telegraf
 
 # eol(x) = releaseDate(x+2)
 releases:

@@ -11,6 +11,7 @@ changelogTemplate: https://github.com/meilisearch/meilisearch/releases/tag/v__LA
 
 identifiers:
   - repology: meilisearch
+  - purl: pkg:github/meilisearch/meilisearch
 
 auto:
   methods:

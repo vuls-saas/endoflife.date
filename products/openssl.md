@@ -12,6 +12,7 @@ eoesColumn: Premium support
 
 identifiers:
   - repology: openssl
+  - purl: pkg:github/openssl/openssl
   - cpe: cpe:/a:openssl:openssl
   - cpe: cpe:2.3:a:openssl:openssl
 

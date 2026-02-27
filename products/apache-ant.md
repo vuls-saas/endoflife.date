@@ -14,6 +14,7 @@ identifiers:
   - cpe: cpe:/a:apache:ant
   - cpe: cpe:2.3:a:apache:ant
   - repology: ant
+  - purl: pkg:maven/org.apache.ant/ant
 
 auto:
   methods:

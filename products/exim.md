@@ -8,6 +8,7 @@ changelogTemplate: https://github.com/Exim/exim/releases/tag/exim-__LATEST__
 
 identifiers:
   - repology: exim
+  - purl: pkg:github/exim/exim
 
 auto:
   methods:

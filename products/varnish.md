@@ -12,6 +12,7 @@ identifiers:
   - repology: varnish
   - purl: pkg:brew/varnish
   - purl: pkg:docker/library/varnish
+  - purl: pkg:github/varnishcache/varnish-cache
   - cpe: cpe:2.3:a:varnish_cache_project:varnish_cache
   - cpe: cpe:/a:varnish_cache_project:varnish_cache
 

@@ -10,6 +10,9 @@ alternate_urls:
 releasePolicyLink: https://lucene.apache.org/core/downloads.html
 changelogTemplate: "https://lucene.apache.org/core/{{'__LATEST__'|replace:'.','_'}}/changes/Changes.html"
 
+
+identifiers:
+  - purl: pkg:maven/org.apache.lucene/lucene-core
 auto:
   methods:
     - maven: org.apache.lucene/lucene-core

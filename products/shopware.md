@@ -20,6 +20,8 @@ customFields:
 identifiers:
   - cpe: cpe:/a:shopware:shopware
   - cpe: cpe:2.3:a:shopware:shopware
+  - purl: pkg:github/shopware/shopware
+  - purl: pkg:github/shopware5/shopware
 
 auto:
   methods:

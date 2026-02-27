@@ -9,6 +9,7 @@ changelogTemplate: "https://www.sipwise.com/releases/{{'__RELEASE_DATE__'|split:
 
 identifiers:
   - repology: rtpengine
+  - purl: pkg:github/sipwise/rtpengine
 
 auto:
   methods:

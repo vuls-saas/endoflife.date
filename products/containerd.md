@@ -13,6 +13,7 @@ changelogTemplate: "https://github.com/containerd/containerd/releases/tag/v__LAT
 
 identifiers:
   - repology: containerd
+  - purl: pkg:github/containerd/containerd
   - cpe: cpe:2.3:a:linuxfoundation:containerd
   - cpe: cpe:/a:linuxfoundation:containerd
 

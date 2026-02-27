@@ -25,6 +25,7 @@ auto:
 identifiers:
   - cpe: cpe:/o:linux:linux_kernel
   - cpe: cpe:2.3:o:linux:linux_kernel
+  - purl: pkg:github/gregkh/linux
 
 # See https://en.wikipedia.org/wiki/Linux_kernel_version_history
 # LTS 2-year projected EOL see https://www.kernel.org/category/releases.html

@@ -13,6 +13,7 @@ eoesColumn: Commercial support
 
 identifiers:
   - repology: qt
+  - purl: pkg:github/qt/qt5
   - cpe: cpe:/a:qt:qt
   - cpe: cpe:2.3:a:qt:qt
 

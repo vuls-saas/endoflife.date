@@ -11,6 +11,7 @@ changelogTemplate: https://github.com/hashicorp/boundary/blob/release/__RELEASE_
 
 identifiers:
   - repology: boundary
+  - purl: pkg:github/hashicorp/boundary
 
 auto:
   methods:

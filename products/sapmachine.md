@@ -8,6 +8,9 @@ permalink: /sapmachine
 versionCommand: java -version
 releasePolicyLink: https://github.com/SAP/SapMachine/wiki/Security-Updates,-Maintenance-and-Support
 
+
+identifiers:
+  - purl: pkg:github/sap/sapmachine
 auto:
   methods:
     - github_releases: SAP/SapMachine

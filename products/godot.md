@@ -14,6 +14,7 @@ eoasColumn: true
 
 identifiers:
   - repology: godot
+  - purl: pkg:github/godotengine/godot
   - cpe: cpe:/a:godotengine:godot
   - cpe: cpe:2.3:a:godotengine:godot
   - cpe: cpe:/a:godotengine:godot_engine

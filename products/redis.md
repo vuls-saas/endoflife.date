@@ -23,6 +23,7 @@ identifiers:
   - purl: pkg:docker/cimg/redis
   - purl: pkg:docker/ubuntu/redis
   - purl: pkg:brew/redis/redis
+  - purl: pkg:github/redis/redis
   - repology: redis
 
 auto:

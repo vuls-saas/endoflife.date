@@ -15,6 +15,7 @@ eolColumn: Limited Support
 
 identifiers:
   - purl: pkg:docker/rancher/rancher
+  - purl: pkg:github/rancher/rancher
   - repology: rancher
 
 auto:

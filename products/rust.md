@@ -19,6 +19,7 @@ auto:
 
 identifiers:
   - repology: rust
+  - purl: pkg:github/rust-lang/rust
 
 # eol(x) = releaseDate(x+1)
 releases:

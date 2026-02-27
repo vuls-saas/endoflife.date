@@ -17,6 +17,7 @@ auto:
 
 identifiers:
   - repology: weakforced
+  - purl: pkg:github/powerdns/weakforced
 
 releases:
   - releaseCycle: "3.0"

@@ -13,6 +13,7 @@ eolColumn: Maintenance Support
 
 identifiers:
   - repology: gitlab
+  - purl: pkg:gitlab/gitlab-org/gitlab
   - cpe: cpe:/a:gitlab:gitlab
   - cpe: cpe:2.3:a:gitlab:gitlab
 

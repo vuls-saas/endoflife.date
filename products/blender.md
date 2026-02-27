@@ -12,6 +12,7 @@ eolColumn: Critical bug fixes
 
 identifiers:
   - repology: blender
+  - purl: pkg:github/blender/blender
   - cpe: cpe:/a:blender:blender
   - cpe: cpe:2.3:a:blender:blender
 

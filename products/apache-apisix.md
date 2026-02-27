@@ -9,6 +9,9 @@ alternate_urls:
   - /apisix
 changelogTemplate: https://github.com/apache/apisix/releases/tag/__LATEST__
 
+
+identifiers:
+  - purl: pkg:github/apache/apisix
 auto:
   methods:
     - github_releases: apache/apisix

@@ -29,6 +29,7 @@ customFields:
 
 identifiers:
   - repology: ansible-core
+  - purl: pkg:github/ansible/ansible
   - cpe: cpe:/a:redhat:ansible_engine
   - cpe: cpe:/a:ansible:ansible
   - cpe: cpe:/a:redhat:ansible

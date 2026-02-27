@@ -12,6 +12,7 @@ auto:
 
 identifiers:
   - repology: notepad%2B%2B
+  - purl: pkg:github/notepad-plus-plus/notepad-plus-plus
 
 # eol(x) = releaseDate(x+1)
 releases:

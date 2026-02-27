@@ -31,6 +31,7 @@ auto:
 identifiers:
   - repology: opensearch
   - purl: pkg:docker/opensearchproject/opensearch
+  - purl: pkg:github/opensearch-project/opensearch
     
 releases:
   - releaseCycle: "3"

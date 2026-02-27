@@ -12,6 +12,7 @@ eolColumn: Support
 
 identifiers:
   - repology: nifi
+  - purl: pkg:github/apache/nifi
 
 auto:
   methods:

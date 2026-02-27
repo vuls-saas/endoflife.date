@@ -22,6 +22,7 @@ customFields:
 
 identifiers:
   - repology: electron
+  - purl: pkg:npm/electron
   - cpe: cpe:/a:electronjs:electron
   - cpe: cpe:2.3:a:electronjs:electron
 

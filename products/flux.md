@@ -20,6 +20,8 @@ auto:
 
 identifiers:
   - repology: fluxcd
+  - purl: pkg:github/fluxcd/flux
+  - purl: pkg:github/fluxcd/flux2
 
 # eol(X) = releaseDate(X+3)
 releases:

@@ -10,6 +10,10 @@ changelogTemplate: "https://docs.centreon.com/docs/__RELEASE_CYCLE__/releases/ce
 eolColumn: OSS Support
 eoesColumn: Commercial Support
 
+
+identifiers:
+  - purl: pkg:github/centreon/centreon
+  - purl: pkg:github/centreon/centreon-archived
 auto:
   methods:
     - git: https://github.com/centreon/centreon.git

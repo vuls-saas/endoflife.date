@@ -15,6 +15,7 @@ eolColumn: Recommended for use
 identifiers:
   - repology: ghc
   - repology: haskell:ghc
+  - purl: pkg:generic/ghc?repository_url=https://gitlab.haskell.org/ghc/ghc.git
 
 auto:
   methods:

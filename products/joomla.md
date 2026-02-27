@@ -11,6 +11,7 @@ eoasColumn: true
 
 identifiers:
   - repology: joomla
+  - purl: pkg:github/joomla/joomla-cms
 
 auto:
   methods:

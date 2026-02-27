@@ -12,6 +12,7 @@ auto:
 
 identifiers:
   - repology: php:twig
+  - purl: pkg:github/twigphp/twig
 
 releases:
   - releaseCycle: "3"

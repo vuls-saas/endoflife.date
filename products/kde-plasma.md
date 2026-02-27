@@ -15,6 +15,7 @@ eolColumn: Critical bug fixes
 identifiers:
   - cpe: cpe:/a:kde:plasma
   - cpe: cpe:2.3:a:kde:plasma
+  - purl: pkg:github/kde/plasma-desktop
 
 auto:
   methods:

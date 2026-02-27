@@ -15,6 +15,7 @@ auto:
 
 identifiers:
   - repology: mandrel
+  - purl: pkg:github/graalvm/mandrel
 
 releases:
 

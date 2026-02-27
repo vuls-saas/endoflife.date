@@ -12,6 +12,7 @@ eolColumn: End-of-Life
 
 identifiers:
   - repology: mediawiki
+  - purl: pkg:github/wikimedia/mediawiki
   - cpe: cpe:/a:mediawiki:mediawiki
   - cpe: cpe:2.3:a:mediawiki:mediawiki
 

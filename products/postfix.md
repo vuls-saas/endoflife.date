@@ -8,6 +8,7 @@ releasePolicyLink: https://www.postfix.org/announcements.html
 
 identifiers:
   - repology: postfix
+  - purl: pkg:github/vdukhovni/postfix
   - cpe: cpe:/a:postfix:postfix
   - cpe: cpe:2.3:a:postfix:postfix
 

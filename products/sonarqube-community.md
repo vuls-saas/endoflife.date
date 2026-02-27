@@ -14,6 +14,7 @@ eolColumn: Support
 
 identifiers:
   - repology: sonarqube
+  - purl: pkg:github/sonarsource/sonarqube
 
 auto:
   methods:

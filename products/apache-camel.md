@@ -21,6 +21,7 @@ customFields:
 identifiers:
   - cpe: cpe:/a:apache:camel
   - cpe: cpe:2.3:a:apache:camel
+  - purl: pkg:github/apache/camel
 
 auto:
   methods:

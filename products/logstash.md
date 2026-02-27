@@ -11,6 +11,7 @@ eolColumn: Support
 
 identifiers:
   - repology: logstash
+  - purl: pkg:github/elastic/logstash
   - cpe: cpe:/a:elastic:logstash
   - cpe: cpe:2.3:a:elastic:logstash
 

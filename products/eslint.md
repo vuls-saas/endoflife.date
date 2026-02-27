@@ -19,6 +19,7 @@ customFields:
 
 identifiers:
   - repology: eslint
+  - purl: pkg:npm/eslint
 
 auto:
   methods:

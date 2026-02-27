@@ -11,6 +11,7 @@ eoasColumn: Stable Support
 
 identifiers:
   - repology: proftpd
+  - purl: pkg:github/proftpd/proftpd
 
 auto:
   methods:

@@ -10,6 +10,7 @@ changelogTemplate: https://theforeman.org/manuals/__RELEASE_CYCLE__/index.html#R
 
 identifiers:
   - repology: foreman
+  - purl: pkg:github/theforeman/foreman
 
 auto:
   methods:

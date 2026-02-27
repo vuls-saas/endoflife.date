@@ -15,6 +15,7 @@ eolColumn: Security
 identifiers:
   - cpe: cpe:/a:umbraco:umbraco_cms
   - cpe: cpe:2.3:a:umbraco:umbraco_cms
+  - purl: pkg:github/umbraco/umbraco-cms
 
 auto:
   methods:

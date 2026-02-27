@@ -11,6 +11,9 @@ changelogTemplate: https://tails.net/news/version___LATEST__/
 # We fetch dates from Git and then override a few
 # older releases with more accurate dates from distrowatch
 # pre-1.3 releases were tagged later, so git data isn't accurate for those.
+
+identifiers:
+  - purl: pkg:generic/tails?repository_url=https://gitlab.tails.boum.org/tails/tails.git
 auto:
   methods:
     - git: https://gitlab.tails.boum.org/tails/tails.git

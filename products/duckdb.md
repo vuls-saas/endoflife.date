@@ -11,6 +11,7 @@ eolColumn: Support Status
 
 identifiers:
   - repology: duckdb
+  - purl: pkg:github/duckdb/duckdb
 
 auto:
   methods:

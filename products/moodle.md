@@ -18,6 +18,7 @@ customFields:
 
 identifiers:
   - repology: moodle
+  - purl: pkg:github/moodle/moodle
   - cpe: cpe:/a:moodle:moodle
   - cpe: cpe:2.3:a:moodle:moodle
 

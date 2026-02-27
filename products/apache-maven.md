@@ -18,6 +18,7 @@ identifiers:
   - cpe: cpe:/a:apache:maven
   - cpe: cpe:2.3:a:apache:maven
   - repology: maven-shared-utils
+  - purl: pkg:maven/org.apache.maven/maven-core
   - cpe: cpe:/a:apache:maven_shared_utils
   - cpe: cpe:2.3:a:apache:maven_shared_utils
 
