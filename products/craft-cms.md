@@ -16,6 +16,7 @@ eoasColumn: true
 identifiers:
   - cpe: cpe:2.3:a:craftcms:craft_cms
   - cpe: cpe:/a:craftcms:craft_cms
+  - purl: pkg:composer/craftcms/cms
 
 auto:
   methods:
