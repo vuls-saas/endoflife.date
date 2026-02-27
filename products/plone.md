@@ -18,6 +18,7 @@ customFields:
 
 identifiers:
   - repology: plone
+  - purl: pkg:pypi/plone
 
 auto:
   methods:

@@ -10,6 +10,7 @@ eoasColumn: true
 
 identifiers:
   - purl: pkg:github/gravitational/teleport
+  - purl: pkg:golang/github.com/gravitational/teleport
   - repology: teleport
 
 auto:

@@ -13,6 +13,9 @@ changelogTemplate: https://github.com/GoogleCloudPlatform/cloud-sql-proxy/releas
 eolColumn: Maintenance
 eoasColumn: Active Support
 
+
+identifiers:
+  - purl: pkg:golang/github.com/GoogleCloudPlatform/cloud-sql-proxy
 auto:
   methods:
     - git: https://github.com/GoogleCloudPlatform/cloud-sql-proxy.git

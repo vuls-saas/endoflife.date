@@ -13,6 +13,7 @@ identifiers:
   - repology: terraform
   - purl: pkg:github/hashicorp/terraform
   - purl: pkg:generic/terraform
+  - purl: pkg:golang/github.com/hashicorp/terraform
 
 auto:
   methods:

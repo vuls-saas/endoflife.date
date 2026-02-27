@@ -13,6 +13,7 @@ identifiers:
   - repology: coder
   - purl: pkg:github/coder/coder
   - purl: pkg:generic/coder
+  - purl: pkg:golang/github.com/coder/coder
 
 auto:
   methods:

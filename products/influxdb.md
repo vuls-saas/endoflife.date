@@ -14,6 +14,7 @@ eoasColumn: false
 
 identifiers:
   - repology: influxdb
+  - purl: pkg:golang/github.com/influxdata/influxdb
 
 auto:
   methods:

@@ -14,6 +14,7 @@ eolColumn: Critical Support
 
 identifiers:
   - repology: dbt-core
+  - purl: pkg:pypi/dbt-core
 
 auto:
   methods:

@@ -14,6 +14,7 @@ versionCommand: packer --version
 
 identifiers:
   - repology: packer
+  - purl: pkg:golang/github.com/hashicorp/packer
 
 auto:
   methods:

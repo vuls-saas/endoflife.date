@@ -14,6 +14,7 @@ auto:
 
 identifiers:
   - repology: telegraf
+  - purl: pkg:golang/github.com/influxdata/telegraf
 
 # eol(x) = releaseDate(x+2)
 releases:

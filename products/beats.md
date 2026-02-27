@@ -20,6 +20,7 @@ eolColumn: Support
 
 identifiers:
   - repology: filebeat
+  - purl: pkg:golang/github.com/elastic/beats
   - cpe: cpe:/a:elastic:filebeat
   - cpe: cpe:2.3:a:elastic:filebeat
 

@@ -20,6 +20,7 @@ auto:
 
 identifiers:
   - repology: fluxcd
+  - purl: pkg:golang/github.com/fluxcd/flux2
 
 # eol(X) = releaseDate(X+3)
 releases:

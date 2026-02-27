@@ -15,6 +15,7 @@ eolColumn: Maintenance Support
 
 identifiers:
   - purl: pkg:github/kubernetes/kubernetes
+  - purl: pkg:golang/github.com/kubernetes/kubernetes
   - repology: kubernetes
 
 auto:

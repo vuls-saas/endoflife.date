@@ -12,6 +12,7 @@ eolColumn: Support
 
 identifiers:
   - repology: nifi
+  - purl: pkg:maven/org.apache.nifi/nifi
 
 auto:
   methods:

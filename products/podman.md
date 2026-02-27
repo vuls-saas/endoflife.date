@@ -10,6 +10,7 @@ changelogTemplate: "https://github.com/containers/podman/releases/tag/v__LATEST_
 
 identifiers:
   - repology: podman
+  - purl: pkg:golang/github.com/containers/podman
 
 auto:
   methods:
