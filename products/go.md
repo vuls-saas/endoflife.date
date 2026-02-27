@@ -20,6 +20,12 @@ identifiers:
   - purl: pkg:docker/cimg/go
   - purl: pkg:docker/bitnami/golang
   - purl: pkg:brew/go
+  - purl: pkg:brew/homebrew/go
+  - purl: pkg:scoop/go
+  - purl: pkg:nix/nixpkgs/go
+  - purl: pkg:apk/alpine/go
+  - purl: pkg:rpm/opensuse/go
+  - purl: pkg:alpm/arch/go
   # - purl: pkg:snap/go
 
 auto:

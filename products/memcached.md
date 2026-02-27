@@ -14,6 +14,15 @@ identifiers:
   - purl: pkg:rpm/redhat/memcached
   - purl: pkg:rpm/centos/memcached
   - purl: pkg:docker/library/memcached
+  - purl: pkg:brew/homebrew/memcached
+  - purl: pkg:scoop/memcached
+  - purl: pkg:nix/nixpkgs/memcached
+  - purl: pkg:apk/alpine/memcached
+  - purl: pkg:rpm/almalinux/memcached
+  - purl: pkg:rpm/fedora/memcached
+  - purl: pkg:rpm/opensuse/memcached
+  - purl: pkg:rpm/rocky/memcached
+  - purl: pkg:alpm/arch/memcached
   - repology: memcached
 
 auto:

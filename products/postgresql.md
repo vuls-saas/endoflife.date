@@ -29,6 +29,13 @@ identifiers:
   - purl: pkg:generic/postgresql
   - purl: pkg:docker/library/postgres
   - purl: pkg:deb/ubuntu/postgresql
+  - purl: pkg:scoop/postgresql
+  - purl: pkg:nix/nixpkgs/postgresql
+  - purl: pkg:rpm/almalinux/postgresql
+  - purl: pkg:rpm/fedora/postgresql
+  - purl: pkg:rpm/opensuse/postgresql
+  - purl: pkg:rpm/rocky/postgresql
+  - purl: pkg:alpm/arch/postgresql
   - cpe: cpe:2.3:a:postgresql:postgresql
   - cpe: cpe:/a:postgresql:postgresql
 

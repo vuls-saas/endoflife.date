@@ -15,6 +15,13 @@ identifiers:
   - purl: pkg:generic/php
   - purl: pkg:generic/php-cli
   - purl: pkg:generic/php-fpm
+  - purl: pkg:brew/homebrew/php
+  - purl: pkg:scoop/php
+  - purl: pkg:nix/nixpkgs/php
+  - purl: pkg:rpm/almalinux/php
+  - purl: pkg:rpm/fedora/php
+  - purl: pkg:rpm/rocky/php
+  - purl: pkg:alpm/arch/php
   - repology: php
   - cpe: cpe:2.3:a:php:php
   - cpe: cpe:/a:php:php

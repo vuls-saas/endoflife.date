@@ -12,6 +12,9 @@ eolColumn: Support Status
 
 identifiers:
   - purl: pkg:github/neo4j/neo4j
+  - purl: pkg:brew/homebrew/neo4j
+  - purl: pkg:nix/nixpkgs/neo4j
+  - purl: pkg:apk/alpine/neo4j
 
 auto:
   methods:

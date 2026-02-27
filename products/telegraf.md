@@ -14,6 +14,12 @@ auto:
 
 identifiers:
   - repology: telegraf
+  - purl: pkg:brew/homebrew/telegraf
+  - purl: pkg:scoop/telegraf
+  - purl: pkg:nix/nixpkgs/telegraf
+  - purl: pkg:apk/alpine/telegraf
+  - purl: pkg:deb/ubuntu/telegraf
+  - purl: pkg:rpm/opensuse/telegraf
 
 # eol(x) = releaseDate(x+2)
 releases:

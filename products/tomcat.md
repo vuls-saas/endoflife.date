@@ -20,6 +20,13 @@ identifiers:
   - repology: tomcat
   - purl: pkg:maven/org.apache.tomcat/tomcat
   - purl: pkg:github/apache/tomcat
+  - purl: pkg:brew/homebrew/tomcat
+  - purl: pkg:scoop/tomcat
+  - purl: pkg:nix/nixpkgs/tomcat
+  - purl: pkg:rpm/almalinux/tomcat
+  - purl: pkg:rpm/fedora/tomcat
+  - purl: pkg:rpm/opensuse/tomcat
+  - purl: pkg:rpm/rocky/tomcat
 
 auto:
   methods:

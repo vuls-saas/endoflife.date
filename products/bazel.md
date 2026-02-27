@@ -15,6 +15,11 @@ identifiers:
   - repology: bazel
   - purl: pkg:github/bazelbuild/bazel
   - purl: pkg:oci/bazel?repository_url=cgr.dev/chainguard
+  - purl: pkg:brew/homebrew/bazel
+  - purl: pkg:scoop/bazel
+  - purl: pkg:nix/nixpkgs/bazel
+  - purl: pkg:rpm/opensuse/bazel
+  - purl: pkg:alpm/arch/bazel
   - cpe: cpe:/a:google:bazel
   - cpe: cpe:2.3:a:google:bazel
 

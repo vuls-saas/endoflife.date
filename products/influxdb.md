@@ -14,6 +14,14 @@ eoasColumn: false
 
 identifiers:
   - repology: influxdb
+  - purl: pkg:brew/homebrew/influxdb
+  - purl: pkg:scoop/influxdb
+  - purl: pkg:nix/nixpkgs/influxdb
+  - purl: pkg:apk/alpine/influxdb
+  - purl: pkg:deb/debian/influxdb
+  - purl: pkg:deb/ubuntu/influxdb
+  - purl: pkg:rpm/opensuse/influxdb
+  - purl: pkg:alpm/arch/influxdb
 
 auto:
   methods:

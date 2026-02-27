@@ -19,6 +19,11 @@ identifiers:
   - purl: pkg:oci/argocd?repository_url=quay.io/argoproj
   - purl: pkg:oci/argocd?repository_url=ghcr.io/argoproj
   - purl: pkg:github/argoproj/argo-cd
+  - purl: pkg:brew/homebrew/argocd
+  - purl: pkg:scoop/argocd
+  - purl: pkg:nix/nixpkgs/argocd
+  - purl: pkg:apk/alpine/argocd
+  - purl: pkg:alpm/arch/argocd
 
 auto:
   methods:

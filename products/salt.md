@@ -35,6 +35,11 @@ identifiers:
   - repology: salt
   - purl: pkg:oci/docker-salt-master?repository_url=ghcr.io/cdalvaro
   - purl: pkg:docker/saltstack/salt
+  - purl: pkg:nix/nixpkgs/salt
+  - purl: pkg:apk/alpine/salt
+  - purl: pkg:deb/ubuntu/salt
+  - purl: pkg:rpm/fedora/salt
+  - purl: pkg:rpm/opensuse/salt
 
 # link(x) =
 # - latest version: https://docs.saltproject.io/en/latest/topics/releases/__LATEST__.html

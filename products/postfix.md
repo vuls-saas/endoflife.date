@@ -8,6 +8,15 @@ releasePolicyLink: https://www.postfix.org/announcements.html
 
 identifiers:
   - repology: postfix
+  - purl: pkg:nix/nixpkgs/postfix
+  - purl: pkg:apk/alpine/postfix
+  - purl: pkg:deb/debian/postfix
+  - purl: pkg:deb/ubuntu/postfix
+  - purl: pkg:rpm/almalinux/postfix
+  - purl: pkg:rpm/fedora/postfix
+  - purl: pkg:rpm/opensuse/postfix
+  - purl: pkg:rpm/rocky/postfix
+  - purl: pkg:alpm/arch/postfix
   - cpe: cpe:/a:postfix:postfix
   - cpe: cpe:2.3:a:postfix:postfix
 

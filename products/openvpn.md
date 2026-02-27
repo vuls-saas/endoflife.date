@@ -14,6 +14,15 @@ auto:
 
 identifiers:
   - repology: openvpn
+  - purl: pkg:brew/homebrew/openvpn
+  - purl: pkg:scoop/openvpn
+  - purl: pkg:nix/nixpkgs/openvpn
+  - purl: pkg:apk/alpine/openvpn
+  - purl: pkg:deb/debian/openvpn
+  - purl: pkg:deb/ubuntu/openvpn
+  - purl: pkg:rpm/fedora/openvpn
+  - purl: pkg:rpm/opensuse/openvpn
+  - purl: pkg:alpm/arch/openvpn
 
 # releaseDate and eol https://community.openvpn.net/openvpn/wiki/SupportedVersions
 releases:

@@ -11,6 +11,7 @@ eolColumn: "Support"
 
 identifiers:
   - purl: pkg:docker/gerritcodereview/gerrit
+  - purl: pkg:nix/nixpkgs/gerrit
   - repology: gerrit
 
 auto:

@@ -17,6 +17,14 @@ identifiers:
   - purl: pkg:oci/prometheus?repository_url=cgr.dev/chainguard
   - purl: pkg:github/prometheus/prometheus
   - purl: pkg:golang/github.com/prometheus/prometheus
+  - purl: pkg:brew/homebrew/prometheus
+  - purl: pkg:scoop/prometheus
+  - purl: pkg:nix/nixpkgs/prometheus
+  - purl: pkg:apk/alpine/prometheus
+  - purl: pkg:deb/debian/prometheus
+  - purl: pkg:deb/ubuntu/prometheus
+  - purl: pkg:rpm/fedora/prometheus
+  - purl: pkg:alpm/arch/prometheus
 
 auto:
   methods:

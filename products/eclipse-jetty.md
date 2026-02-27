@@ -33,6 +33,12 @@ customFields:
 identifiers:
   - repology: jetty
   - purl: pkg:maven/org.eclipse.jetty/jetty-server
+  - purl: pkg:brew/homebrew/jetty
+  - purl: pkg:nix/nixpkgs/jetty
+  - purl: pkg:deb/ubuntu/jetty
+  - purl: pkg:rpm/almalinux/jetty
+  - purl: pkg:rpm/fedora/jetty
+  - purl: pkg:rpm/rocky/jetty
   - cpe: cpe:2.3:a:eclipse:jetty
   - cpe: cpe:/a:eclipse:jetty
 

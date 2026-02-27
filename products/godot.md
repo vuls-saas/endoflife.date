@@ -14,6 +14,14 @@ eoasColumn: true
 
 identifiers:
   - repology: godot
+  - purl: pkg:scoop/godot
+  - purl: pkg:nix/nixpkgs/godot
+  - purl: pkg:apk/alpine/godot
+  - purl: pkg:deb/debian/godot
+  - purl: pkg:deb/ubuntu/godot
+  - purl: pkg:rpm/fedora/godot
+  - purl: pkg:rpm/opensuse/godot
+  - purl: pkg:alpm/arch/godot
   - cpe: cpe:/a:godotengine:godot
   - cpe: cpe:2.3:a:godotengine:godot
   - cpe: cpe:/a:godotengine:godot_engine

@@ -14,6 +14,7 @@ changelogTemplate: https://github.com/adoptium/temurin__RELEASE_CYCLE__-binaries
 identifiers:
   - repology: temurin-bin
   - repology: temurin-jre-bin
+  - purl: pkg:nix/nixpkgs/temurin-bin
   - cpe: cpe:/a:eclipse:temurin
   - cpe: cpe:2.3:a:eclipse:temurin
 

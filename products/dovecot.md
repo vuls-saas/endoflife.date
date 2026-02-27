@@ -12,6 +12,16 @@ eoasColumn: Active Support
 
 identifiers:
   - repology: dovecot
+  - purl: pkg:brew/homebrew/dovecot
+  - purl: pkg:nix/nixpkgs/dovecot
+  - purl: pkg:apk/alpine/dovecot
+  - purl: pkg:deb/debian/dovecot
+  - purl: pkg:deb/ubuntu/dovecot
+  - purl: pkg:rpm/almalinux/dovecot
+  - purl: pkg:rpm/fedora/dovecot
+  - purl: pkg:rpm/opensuse/dovecot
+  - purl: pkg:rpm/rocky/dovecot
+  - purl: pkg:alpm/arch/dovecot
 
 auto:
   methods:

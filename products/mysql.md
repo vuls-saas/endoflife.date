@@ -32,6 +32,10 @@ identifiers:
   - purl: pkg:docker/library/mysql
   - purl: pkg:deb/ubuntu/mysql-server
   - purl: pkg:deb/debian/mysql
+  - purl: pkg:brew/homebrew/mysql
+  - purl: pkg:scoop/mysql
+  - purl: pkg:rpm/almalinux/mysql
+  - purl: pkg:rpm/rocky/mysql
 
 # For LTS: see https://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
 # For Non-LTS (Innovation): eoas(x)/eol(x) = releaseDate(x+1)

@@ -11,6 +11,9 @@ eolColumn: Supported
 identifiers:
   - repology: cfengine
   - purl: pkg:brew/cfengine
+  - purl: pkg:brew/homebrew/cfengine
+  - purl: pkg:apk/alpine/cfengine
+  - purl: pkg:rpm/opensuse/cfengine
   - cpe: cpe:2.3:a:gnu:cfengine
   - cpe: cpe:/a:gnu:cfengine
 

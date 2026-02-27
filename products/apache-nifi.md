@@ -12,6 +12,8 @@ eolColumn: Support
 
 identifiers:
   - repology: nifi
+  - purl: pkg:brew/homebrew/nifi
+  - purl: pkg:nix/nixpkgs/nifi
 
 auto:
   methods:

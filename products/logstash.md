@@ -11,6 +11,9 @@ eolColumn: Support
 
 identifiers:
   - repology: logstash
+  - purl: pkg:brew/homebrew/logstash
+  - purl: pkg:scoop/logstash
+  - purl: pkg:nix/nixpkgs/logstash
   - cpe: cpe:/a:elastic:logstash
   - cpe: cpe:2.3:a:elastic:logstash
 

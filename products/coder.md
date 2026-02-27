@@ -13,6 +13,9 @@ identifiers:
   - repology: coder
   - purl: pkg:github/coder/coder
   - purl: pkg:generic/coder
+  - purl: pkg:brew/homebrew/coder
+  - purl: pkg:scoop/coder
+  - purl: pkg:nix/nixpkgs/coder
 
 auto:
   methods:

@@ -20,6 +20,9 @@ eolColumn: Support
 
 identifiers:
   - repology: filebeat
+  - purl: pkg:brew/homebrew/filebeat
+  - purl: pkg:chocolatey/filebeat
+  - purl: pkg:nix/nixpkgs/filebeat
   - cpe: cpe:/a:elastic:filebeat
   - cpe: cpe:2.3:a:elastic:filebeat
 

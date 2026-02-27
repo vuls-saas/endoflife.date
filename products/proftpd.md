@@ -11,6 +11,11 @@ eoasColumn: Stable Support
 
 identifiers:
   - repology: proftpd
+  - purl: pkg:brew/homebrew/proftpd
+  - purl: pkg:nix/nixpkgs/proftpd
+  - purl: pkg:apk/alpine/proftpd
+  - purl: pkg:rpm/fedora/proftpd
+  - purl: pkg:rpm/opensuse/proftpd
 
 auto:
   methods:

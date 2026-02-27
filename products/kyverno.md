@@ -21,6 +21,9 @@ identifiers:
   - purl: pkg:docker/nirmata/kyverno
   - repology: kyverno
   - purl: pkg:oci/kyverno?repository_url=cgr.dev/chainguard
+  - purl: pkg:brew/homebrew/kyverno
+  - purl: pkg:nix/nixpkgs/kyverno
+  - purl: pkg:rpm/opensuse/kyverno
 
 auto:
   methods:

@@ -18,6 +18,10 @@ customFields:
 
 identifiers:
   - repology: moodle
+  - purl: pkg:nix/nixpkgs/moodle
+  - purl: pkg:deb/ubuntu/moodle
+  - purl: pkg:rpm/fedora/moodle
+  - purl: pkg:rpm/opensuse/moodle
   - cpe: cpe:/a:moodle:moodle
   - cpe: cpe:2.3:a:moodle:moodle
 

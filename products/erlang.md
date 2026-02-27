@@ -12,6 +12,15 @@ eoasColumn: true
 
 identifiers:
   - repology: erlang
+  - purl: pkg:brew/homebrew/erlang
+  - purl: pkg:scoop/erlang
+  - purl: pkg:nix/nixpkgs/erlang
+  - purl: pkg:apk/alpine/erlang
+  - purl: pkg:deb/debian/erlang
+  - purl: pkg:deb/ubuntu/erlang
+  - purl: pkg:rpm/fedora/erlang
+  - purl: pkg:rpm/opensuse/erlang
+  - purl: pkg:alpm/arch/erlang
 
 auto:
   methods:

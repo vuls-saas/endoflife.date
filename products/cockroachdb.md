@@ -15,6 +15,8 @@ eolColumn: Assistance Support
 
 identifiers:
   - repology: cockroachdb
+  - purl: pkg:scoop/cockroachdb
+  - purl: pkg:nix/nixpkgs/cockroachdb
 
 auto:
   methods:

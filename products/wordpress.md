@@ -32,6 +32,11 @@ identifiers:
   - purl: pkg:docker/library/wordpress
   - purl: pkg:docker/bitnami/wordpress
   - purl: pkg:docker/bitnami/wordpress-nginx
+  - purl: pkg:nix/nixpkgs/wordpress
+  - purl: pkg:deb/debian/wordpress
+  - purl: pkg:deb/ubuntu/wordpress
+  - purl: pkg:rpm/fedora/wordpress
+  - purl: pkg:alpm/arch/wordpress
   - cpe: cpe:2.3:a:wordpress:wordpress
   - cpe: cpe:/a:wordpress:wordpress
 

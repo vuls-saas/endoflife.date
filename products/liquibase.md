@@ -10,6 +10,10 @@ changelogTemplate: https://github.com/liquibase/liquibase/releases/tag/v__LATEST
 
 identifiers:
   - repology: liquibase
+  - purl: pkg:brew/homebrew/liquibase
+  - purl: pkg:scoop/liquibase
+  - purl: pkg:nix/nixpkgs/liquibase
+  - purl: pkg:apk/alpine/liquibase
 
 auto:
   methods:

@@ -17,6 +17,8 @@ auto:
 
 identifiers:
   - repology: weakforced
+  - purl: pkg:deb/debian/weakforced
+  - purl: pkg:deb/ubuntu/weakforced
 
 releases:
   - releaseCycle: "3.0"

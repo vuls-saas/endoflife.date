@@ -10,6 +10,9 @@ eoasColumn: true
 identifiers:
   - repology: unrealircd
   - purl: pkg:docker/bbriggs/unrealircd
+  - purl: pkg:apk/alpine/unrealircd
+  - purl: pkg:rpm/fedora/unrealircd
+  - purl: pkg:alpm/arch/unrealircd
   - cpe: cpe:2.3:a:unrealircd:unrealircd
   - cpe: cpe:/a:unrealircd:unrealircd
 

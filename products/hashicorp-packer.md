@@ -14,6 +14,12 @@ versionCommand: packer --version
 
 identifiers:
   - repology: packer
+  - purl: pkg:scoop/packer
+  - purl: pkg:nix/nixpkgs/packer
+  - purl: pkg:apk/alpine/packer
+  - purl: pkg:deb/debian/packer
+  - purl: pkg:deb/ubuntu/packer
+  - purl: pkg:alpm/arch/packer
 
 auto:
   methods:

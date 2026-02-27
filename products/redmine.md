@@ -10,6 +10,10 @@ changelogTemplate: "https://www.redmine.org/projects/redmine/wiki/Changelog_{{'_
 
 identifiers:
   - repology: redmine
+  - purl: pkg:nix/nixpkgs/redmine
+  - purl: pkg:deb/debian/redmine
+  - purl: pkg:deb/ubuntu/redmine
+  - purl: pkg:alpm/arch/redmine
   - cpe: cpe:/a:redmine:redmine
   - cpe: cpe:2.3:a:redmine:redmine
 

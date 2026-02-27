@@ -15,6 +15,14 @@ auto:
     - git: https://github.com/JuliaLang/julia.git
 identifiers:
   - repology: julia
+  - purl: pkg:brew/homebrew/julia
+  - purl: pkg:scoop/julia
+  - purl: pkg:nix/nixpkgs/julia
+  - purl: pkg:deb/debian/julia
+  - purl: pkg:deb/ubuntu/julia
+  - purl: pkg:rpm/fedora/julia
+  - purl: pkg:rpm/opensuse/julia
+  - purl: pkg:alpm/arch/julia
 
 releases:
   - releaseCycle: "1.12"

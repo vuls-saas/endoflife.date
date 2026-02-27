@@ -17,6 +17,13 @@ identifiers:
   - purl: pkg:rpm/redhat/squid
   - purl: pkg:rpm/centos/squid
   - purl: pkg:apk/alpine/squid
+  - purl: pkg:brew/homebrew/squid
+  - purl: pkg:nix/nixpkgs/squid
+  - purl: pkg:rpm/almalinux/squid
+  - purl: pkg:rpm/fedora/squid
+  - purl: pkg:rpm/opensuse/squid
+  - purl: pkg:rpm/rocky/squid
+  - purl: pkg:alpm/arch/squid
 
 # v4+ has stable releases as major.minor
 # v2,3 had stable releases as major.minor.patch, where patch=0 was for RC releases.

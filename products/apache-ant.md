@@ -14,6 +14,16 @@ identifiers:
   - cpe: cpe:/a:apache:ant
   - cpe: cpe:2.3:a:apache:ant
   - repology: ant
+  - purl: pkg:brew/homebrew/ant
+  - purl: pkg:scoop/ant
+  - purl: pkg:nix/nixpkgs/ant
+  - purl: pkg:deb/debian/ant
+  - purl: pkg:deb/ubuntu/ant
+  - purl: pkg:rpm/almalinux/ant
+  - purl: pkg:rpm/fedora/ant
+  - purl: pkg:rpm/opensuse/ant
+  - purl: pkg:rpm/rocky/ant
+  - purl: pkg:alpm/arch/ant
 
 auto:
   methods:

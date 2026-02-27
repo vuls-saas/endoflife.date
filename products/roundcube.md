@@ -12,6 +12,9 @@ eolColumn: Security Support
 
 identifiers:
   - repology: roundcube
+  - purl: pkg:nix/nixpkgs/roundcube
+  - purl: pkg:deb/debian/roundcube
+  - purl: pkg:deb/ubuntu/roundcube
 
 auto:
   methods:

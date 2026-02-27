@@ -12,6 +12,16 @@ identifiers:
   - repology: grafana
   - purl: pkg:github/grafana/grafana
   - purl: pkg:golang/github.com/grafana/grafana
+  - purl: pkg:brew/homebrew/grafana
+  - purl: pkg:scoop/grafana
+  - purl: pkg:nix/nixpkgs/grafana
+  - purl: pkg:apk/alpine/grafana
+  - purl: pkg:deb/ubuntu/grafana
+  - purl: pkg:rpm/almalinux/grafana
+  - purl: pkg:rpm/fedora/grafana
+  - purl: pkg:rpm/opensuse/grafana
+  - purl: pkg:rpm/rocky/grafana
+  - purl: pkg:alpm/arch/grafana
 
 # See https://grafana.com/blog/2024/11/08/grafana-release-cycle-end-of-year-update/#grafana-security-releases-improved-version-naming-convention
 # https://regex101.com/r/2GkIJ5/1

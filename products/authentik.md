@@ -13,6 +13,7 @@ identifiers:
   - repology: authentik
   - purl: pkg:github/goauthentik/authentik
   - purl: pkg:docker/authentik/server
+  - purl: pkg:nix/nixpkgs/authentik
   - cpe: cpe:/a:goauthentik:authentik
   - cpe: cpe:2.3:a:goauthentik:authentik
 

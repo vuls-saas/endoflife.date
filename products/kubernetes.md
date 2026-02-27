@@ -15,6 +15,13 @@ eolColumn: Maintenance Support
 
 identifiers:
   - purl: pkg:github/kubernetes/kubernetes
+  - purl: pkg:nix/nixpkgs/kubernetes
+  - purl: pkg:apk/alpine/kubernetes
+  - purl: pkg:deb/debian/kubernetes
+  - purl: pkg:deb/ubuntu/kubernetes
+  - purl: pkg:rpm/fedora/kubernetes
+  - purl: pkg:rpm/opensuse/kubernetes
+  - purl: pkg:alpm/arch/kubernetes
   - repology: kubernetes
 
 auto:

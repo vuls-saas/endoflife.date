@@ -15,6 +15,14 @@ identifiers:
   - purl: pkg:apk/alpine/perl
   - purl: pkg:deb/debian/perl
   - purl: pkg:generic/perl
+  - purl: pkg:brew/homebrew/perl
+  - purl: pkg:nix/nixpkgs/perl
+  - purl: pkg:deb/ubuntu/perl
+  - purl: pkg:rpm/almalinux/perl
+  - purl: pkg:rpm/fedora/perl
+  - purl: pkg:rpm/opensuse/perl
+  - purl: pkg:rpm/rocky/perl
+  - purl: pkg:alpm/arch/perl
   - repology: perl
   - cpe: cpe:2.3:a:perl:perl
   - cpe: cpe:/a:perl:perl

@@ -20,6 +20,14 @@ identifiers:
   - purl: pkg:docker/library/node
   - purl: pkg:docker/cimg/node
   - purl: pkg:docker/bitnami/node
+  - purl: pkg:scoop/nodejs
+  - purl: pkg:nix/nixpkgs/nodejs
+  - purl: pkg:apk/alpine/nodejs
+  - purl: pkg:deb/debian/nodejs
+  - purl: pkg:deb/ubuntu/nodejs
+  - purl: pkg:rpm/almalinux/nodejs
+  - purl: pkg:rpm/rocky/nodejs
+  - purl: pkg:alpm/arch/nodejs
   - cpe: cpe:2.3:a:nodejs:node.js
   - repology: nodejs
 

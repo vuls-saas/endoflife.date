@@ -12,6 +12,13 @@ changelogTemplate: https://nix.dev/manual/nix/latest/release-notes/rl-__RELEASE_
 
 identifiers:
   - repology: nix
+  - purl: pkg:nix/nixpkgs/nix
+  - purl: pkg:apk/alpine/nix
+  - purl: pkg:deb/debian/nix
+  - purl: pkg:deb/ubuntu/nix
+  - purl: pkg:rpm/fedora/nix
+  - purl: pkg:rpm/opensuse/nix
+  - purl: pkg:alpm/arch/nix
 
 auto:
   methods:

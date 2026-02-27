@@ -11,6 +11,11 @@ changelogTemplate: "https://github.com/micronaut-projects/micronaut-core/release
 eoasColumn: Active Development
 eolColumn: Active Maintenance
 
+
+identifiers:
+  - purl: pkg:brew/homebrew/micronaut
+  - purl: pkg:scoop/micronaut
+  - purl: pkg:nix/nixpkgs/micronaut
 auto:
   methods:
     - git: https://github.com/micronaut-projects/micronaut-core.git

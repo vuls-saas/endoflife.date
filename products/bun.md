@@ -15,6 +15,9 @@ identifiers:
   - purl: pkg:github/oven-sh/bun
   - purl: pkg:brew/oven-sh/bun/bun
   - purl: pkg:npm/bun
+  - purl: pkg:scoop/bun
+  - purl: pkg:nix/nixpkgs/bun
+  - purl: pkg:alpm/arch/bun
 
 auto:
   methods:

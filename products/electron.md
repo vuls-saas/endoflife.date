@@ -22,6 +22,9 @@ customFields:
 
 identifiers:
   - repology: electron
+  - purl: pkg:nix/nixpkgs/electron
+  - purl: pkg:apk/alpine/electron
+  - purl: pkg:alpm/arch/electron
   - cpe: cpe:/a:electronjs:electron
   - cpe: cpe:2.3:a:electronjs:electron
 

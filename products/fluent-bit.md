@@ -17,6 +17,11 @@ identifiers:
   - repology: fluent-bit
   - purl: pkg:github/fluent/fluent-bit
   - purl: pkg:docker/fluent/fluent-bit
+  - purl: pkg:brew/homebrew/fluent-bit
+  - purl: pkg:chocolatey/fluent-bit
+  - purl: pkg:nix/nixpkgs/fluent-bit
+  - purl: pkg:apk/alpine/fluent-bit
+  - purl: pkg:rpm/fedora/fluent-bit
 
 auto:
   methods:

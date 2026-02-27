@@ -14,6 +14,8 @@ eolColumn: Service Status
 
 identifiers:
   - repology: hbase
+  - purl: pkg:brew/homebrew/hbase
+  - purl: pkg:nix/nixpkgs/hbase
   - cpe: cpe:/a:apache:hbase
   - cpe: cpe:2.3:a:apache:hbase
 

@@ -11,6 +11,8 @@ changelogTemplate: https://github.com/hashicorp/boundary/blob/release/__RELEASE_
 
 identifiers:
   - repology: boundary
+  - purl: pkg:scoop/boundary
+  - purl: pkg:nix/nixpkgs/boundary
 
 auto:
   methods:

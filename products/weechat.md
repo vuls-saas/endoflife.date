@@ -9,6 +9,13 @@ eolColumn: Active Support
 
 identifiers:
   - repology: weechat
+  - purl: pkg:brew/homebrew/weechat
+  - purl: pkg:apk/alpine/weechat
+  - purl: pkg:deb/debian/weechat
+  - purl: pkg:deb/ubuntu/weechat
+  - purl: pkg:rpm/fedora/weechat
+  - purl: pkg:rpm/opensuse/weechat
+  - purl: pkg:alpm/arch/weechat
   - cpe: cpe:/a:weechat:weechat
   - cpe: cpe:2.3:a:weechat:weechat
 

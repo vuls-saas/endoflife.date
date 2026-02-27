@@ -12,6 +12,13 @@ eolColumn: Support
 
 identifiers:
   - purl: pkg:npm/pnpm
+  - purl: pkg:brew/homebrew/pnpm
+  - purl: pkg:chocolatey/pnpm
+  - purl: pkg:scoop/pnpm
+  - purl: pkg:nix/nixpkgs/pnpm
+  - purl: pkg:apk/alpine/pnpm
+  - purl: pkg:rpm/opensuse/pnpm
+  - purl: pkg:alpm/arch/pnpm
   - repology: pnpm
 
 auto:

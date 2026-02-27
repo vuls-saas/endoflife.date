@@ -12,6 +12,7 @@ eoasColumn: true
 
 identifiers:
   - repology: inspec
+  - purl: pkg:nix/nixpkgs/inspec
   - cpe: cpe:2.3:a:chef:inspec
 
 auto:

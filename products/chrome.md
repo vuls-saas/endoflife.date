@@ -14,6 +14,7 @@ latestColumn: false
 
 identifiers:
   - repology: google-chrome
+  - purl: pkg:nix/nixpkgs/google-chrome
   - cpe: cpe:2.3:a:google:chrome
 
 auto:

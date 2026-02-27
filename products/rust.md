@@ -19,6 +19,14 @@ auto:
 
 identifiers:
   - repology: rust
+  - purl: pkg:brew/homebrew/rust
+  - purl: pkg:scoop/rust
+  - purl: pkg:apk/alpine/rust
+  - purl: pkg:rpm/almalinux/rust
+  - purl: pkg:rpm/fedora/rust
+  - purl: pkg:rpm/opensuse/rust
+  - purl: pkg:rpm/rocky/rust
+  - purl: pkg:alpm/arch/rust
 
 # eol(x) = releaseDate(x+1)
 releases:

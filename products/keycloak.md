@@ -11,6 +11,9 @@ eolColumn: Supported
 
 identifiers:
   - purl: pkg:github/keycloak/keycloak
+  - purl: pkg:nix/nixpkgs/keycloak
+  - purl: pkg:apk/alpine/keycloak
+  - purl: pkg:alpm/arch/keycloak
   - repology: keycloak
 
 auto:

@@ -12,6 +12,7 @@ auto:
 
 identifiers:
   - repology: privatebin
+  - purl: pkg:nix/nixpkgs/privatebin
 
 # eol(x) = releaseDate(x+1)
 releases:

@@ -31,6 +31,11 @@ auto:
 identifiers:
   - repology: opensearch
   - purl: pkg:docker/opensearchproject/opensearch
+  - purl: pkg:brew/homebrew/opensearch
+  - purl: pkg:nix/nixpkgs/opensearch
+  - purl: pkg:deb/debian/opensearch
+  - purl: pkg:deb/ubuntu/opensearch
+  - purl: pkg:alpm/arch/opensearch
     
 releases:
   - releaseCycle: "3"

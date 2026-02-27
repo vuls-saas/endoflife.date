@@ -20,6 +20,17 @@ identifiers:
   - repology: wireshark
   - purl: pkg:docker/linuxserver/wireshark
   - purl: pkg:docker/linuxserver/wireshark?repository_url=lscr.io
+  - purl: pkg:brew/homebrew/wireshark
+  - purl: pkg:scoop/wireshark
+  - purl: pkg:nix/nixpkgs/wireshark
+  - purl: pkg:apk/alpine/wireshark
+  - purl: pkg:deb/debian/wireshark
+  - purl: pkg:deb/ubuntu/wireshark
+  - purl: pkg:rpm/almalinux/wireshark
+  - purl: pkg:rpm/fedora/wireshark
+  - purl: pkg:rpm/opensuse/wireshark
+  - purl: pkg:rpm/rocky/wireshark
+  - purl: pkg:alpm/arch/wireshark
   - cpe: cpe:2.3:a:wireshark:wireshark
   - cpe: cpe:/a:wireshark:wireshark
 

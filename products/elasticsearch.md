@@ -19,6 +19,8 @@ identifiers:
   - purl: pkg:rpm/centos/elasticsearch
   - purl: pkg:github/elastic/elasticsearch
   - purl: pkg:maven/org.elasticsearch/elasticsearch
+  - purl: pkg:scoop/elasticsearch
+  - purl: pkg:nix/nixpkgs/elasticsearch
   - cpe: cpe:2.3:a:elastic:elasticsearch
   - cpe: cpe:/a:elastic:elasticsearch
   - cpe: cpe:2.3:a:elasticsearch:elasticsearch

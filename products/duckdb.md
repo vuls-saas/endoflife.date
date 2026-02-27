@@ -11,6 +11,11 @@ eolColumn: Support Status
 
 identifiers:
   - repology: duckdb
+  - purl: pkg:brew/homebrew/duckdb
+  - purl: pkg:scoop/duckdb
+  - purl: pkg:nix/nixpkgs/duckdb
+  - purl: pkg:apk/alpine/duckdb
+  - purl: pkg:alpm/arch/duckdb
 
 auto:
   methods:

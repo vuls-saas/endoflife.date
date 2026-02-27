@@ -14,6 +14,16 @@ staleReleaseThresholdDays: 730 # project is not very active anymore
 
 identifiers:
   - repology: subversion
+  - purl: pkg:brew/homebrew/subversion
+  - purl: pkg:nix/nixpkgs/subversion
+  - purl: pkg:apk/alpine/subversion
+  - purl: pkg:deb/debian/subversion
+  - purl: pkg:deb/ubuntu/subversion
+  - purl: pkg:rpm/almalinux/subversion
+  - purl: pkg:rpm/fedora/subversion
+  - purl: pkg:rpm/opensuse/subversion
+  - purl: pkg:rpm/rocky/subversion
+  - purl: pkg:alpm/arch/subversion
 
 auto:
   methods:

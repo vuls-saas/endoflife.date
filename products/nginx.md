@@ -20,6 +20,14 @@ identifiers:
   - purl: pkg:apk/alpine/nginx
   - purl: pkg:rpm/opensuse/nginx
   - purl: pkg:github/nginx/nginx
+  - purl: pkg:brew/homebrew/nginx
+  - purl: pkg:chocolatey/nginx
+  - purl: pkg:scoop/nginx
+  - purl: pkg:nix/nixpkgs/nginx
+  - purl: pkg:rpm/almalinux/nginx
+  - purl: pkg:rpm/fedora/nginx
+  - purl: pkg:rpm/rocky/nginx
+  - purl: pkg:alpm/arch/nginx
   - cpe: cpe:2.3:a:f5:nginx
 
 auto:

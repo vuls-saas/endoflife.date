@@ -13,6 +13,10 @@ eolColumn: Maintenance Support
 
 identifiers:
   - repology: gitlab
+  - purl: pkg:nix/nixpkgs/gitlab
+  - purl: pkg:deb/debian/gitlab
+  - purl: pkg:deb/ubuntu/gitlab
+  - purl: pkg:alpm/arch/gitlab
   - cpe: cpe:/a:gitlab:gitlab
   - cpe: cpe:2.3:a:gitlab:gitlab
 

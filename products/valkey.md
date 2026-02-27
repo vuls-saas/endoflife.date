@@ -14,6 +14,16 @@ identifiers:
   - repology: valkey
   - purl: pkg:github/valkey-io/valkey
   - purl: pkg:docker/valkey/valkey
+  - purl: pkg:brew/homebrew/valkey
+  - purl: pkg:nix/nixpkgs/valkey
+  - purl: pkg:apk/alpine/valkey
+  - purl: pkg:deb/debian/valkey
+  - purl: pkg:deb/ubuntu/valkey
+  - purl: pkg:rpm/almalinux/valkey
+  - purl: pkg:rpm/fedora/valkey
+  - purl: pkg:rpm/opensuse/valkey
+  - purl: pkg:rpm/rocky/valkey
+  - purl: pkg:alpm/arch/valkey
 
 auto:
   methods:

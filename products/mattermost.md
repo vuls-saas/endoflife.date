@@ -26,6 +26,9 @@ auto:
 
 identifiers:
   - repology: mattermost
+  - purl: pkg:scoop/mattermost
+  - purl: pkg:nix/nixpkgs/mattermost
+  - purl: pkg:alpm/arch/mattermost
 
 # releaseDate and eol see: https://docs.mattermost.com/about/mattermost-server-releases.html
 releases:

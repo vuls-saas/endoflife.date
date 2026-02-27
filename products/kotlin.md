@@ -13,6 +13,12 @@ changelogTemplate: "https://github.com/JetBrains/kotlin/releases/tag/v__LATEST__
 
 identifiers:
   - repology: kotlin
+  - purl: pkg:brew/homebrew/kotlin
+  - purl: pkg:scoop/kotlin
+  - purl: pkg:nix/nixpkgs/kotlin
+  - purl: pkg:deb/debian/kotlin
+  - purl: pkg:deb/ubuntu/kotlin
+  - purl: pkg:alpm/arch/kotlin
 
 auto:
   methods:

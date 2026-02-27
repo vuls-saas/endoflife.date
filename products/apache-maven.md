@@ -18,6 +18,17 @@ identifiers:
   - cpe: cpe:/a:apache:maven
   - cpe: cpe:2.3:a:apache:maven
   - repology: maven-shared-utils
+  - purl: pkg:brew/homebrew/maven
+  - purl: pkg:scoop/maven
+  - purl: pkg:nix/nixpkgs/maven
+  - purl: pkg:apk/alpine/maven
+  - purl: pkg:deb/debian/maven
+  - purl: pkg:deb/ubuntu/maven
+  - purl: pkg:rpm/almalinux/maven
+  - purl: pkg:rpm/fedora/maven
+  - purl: pkg:rpm/opensuse/maven
+  - purl: pkg:rpm/rocky/maven
+  - purl: pkg:alpm/arch/maven
   - cpe: cpe:/a:apache:maven_shared_utils
   - cpe: cpe:2.3:a:apache:maven_shared_utils
 

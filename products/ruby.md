@@ -24,6 +24,14 @@ identifiers:
   - repology: ruby
   - purl: pkg:docker/library/ruby
   - purl: pkg:generic/ruby
+  - purl: pkg:brew/homebrew/ruby
+  - purl: pkg:nix/nixpkgs/ruby
+  - purl: pkg:apk/alpine/ruby
+  - purl: pkg:rpm/almalinux/ruby
+  - purl: pkg:rpm/fedora/ruby
+  - purl: pkg:rpm/opensuse/ruby
+  - purl: pkg:rpm/rocky/ruby
+  - purl: pkg:alpm/arch/ruby
 
 releases:
   - releaseCycle: "4.0"

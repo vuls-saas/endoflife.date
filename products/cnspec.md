@@ -14,6 +14,7 @@ identifiers:
   - repology: cnspec
   - purl: pkg:github/mondoohq/cnspec
   - purl: pkg:docker/mondoo/cnspec
+  - purl: pkg:nix/nixpkgs/cnspec
 
 auto:
   methods:

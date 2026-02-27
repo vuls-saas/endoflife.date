@@ -17,6 +17,11 @@ identifiers:
   - purl: pkg:docker/icinga/icingaweb2
   - purl: pkg:github/Icinga/icingaweb2
   - purl: pkg:github/Icinga/icinga-web
+  - purl: pkg:nix/nixpkgs/icingaweb2
+  - purl: pkg:apk/alpine/icingaweb2
+  - purl: pkg:deb/debian/icingaweb2
+  - purl: pkg:deb/ubuntu/icingaweb2
+  - purl: pkg:rpm/opensuse/icingaweb2
 
 auto:
   methods:

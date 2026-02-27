@@ -10,6 +10,17 @@ changelogTemplate: "https://github.com/containers/podman/releases/tag/v__LATEST_
 
 identifiers:
   - repology: podman
+  - purl: pkg:brew/homebrew/podman
+  - purl: pkg:scoop/podman
+  - purl: pkg:nix/nixpkgs/podman
+  - purl: pkg:apk/alpine/podman
+  - purl: pkg:deb/debian/podman
+  - purl: pkg:deb/ubuntu/podman
+  - purl: pkg:rpm/almalinux/podman
+  - purl: pkg:rpm/fedora/podman
+  - purl: pkg:rpm/opensuse/podman
+  - purl: pkg:rpm/rocky/podman
+  - purl: pkg:alpm/arch/podman
 
 auto:
   methods:

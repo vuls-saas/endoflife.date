@@ -10,6 +10,10 @@ eoasColumn: true
 
 identifiers:
   - purl: pkg:github/gravitational/teleport
+  - purl: pkg:brew/homebrew/teleport
+  - purl: pkg:scoop/teleport
+  - purl: pkg:nix/nixpkgs/teleport
+  - purl: pkg:rpm/opensuse/teleport
   - repology: teleport
 
 auto:

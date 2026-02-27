@@ -13,6 +13,14 @@ changelogTemplate: "https://github.com/containerd/containerd/releases/tag/v__LAT
 
 identifiers:
   - repology: containerd
+  - purl: pkg:scoop/containerd
+  - purl: pkg:nix/nixpkgs/containerd
+  - purl: pkg:apk/alpine/containerd
+  - purl: pkg:deb/debian/containerd
+  - purl: pkg:deb/ubuntu/containerd
+  - purl: pkg:rpm/fedora/containerd
+  - purl: pkg:rpm/opensuse/containerd
+  - purl: pkg:alpm/arch/containerd
   - cpe: cpe:2.3:a:linuxfoundation:containerd
   - cpe: cpe:/a:linuxfoundation:containerd
 

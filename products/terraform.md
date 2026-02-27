@@ -13,6 +13,12 @@ identifiers:
   - repology: terraform
   - purl: pkg:github/hashicorp/terraform
   - purl: pkg:generic/terraform
+  - purl: pkg:brew/homebrew/terraform
+  - purl: pkg:scoop/terraform
+  - purl: pkg:nix/nixpkgs/terraform
+  - purl: pkg:apk/alpine/terraform
+  - purl: pkg:rpm/opensuse/terraform
+  - purl: pkg:alpm/arch/terraform
 
 auto:
   methods:

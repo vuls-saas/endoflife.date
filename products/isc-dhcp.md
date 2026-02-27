@@ -11,6 +11,12 @@ eolColumn: Support
 identifiers:
   - repology: dhcp
   - purl: pkg:docker/networkboot/dhcpd
+  - purl: pkg:apk/alpine/dhcp
+  - purl: pkg:rpm/almalinux/dhcp
+  - purl: pkg:rpm/fedora/dhcp
+  - purl: pkg:rpm/opensuse/dhcp
+  - purl: pkg:rpm/rocky/dhcp
+  - purl: pkg:alpm/arch/dhcp
 
 releases:
   - releaseCycle: "4.4"

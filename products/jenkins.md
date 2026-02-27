@@ -11,6 +11,11 @@ eolColumn: Support
 
 identifiers:
   - repology: jenkins
+  - purl: pkg:brew/homebrew/jenkins
+  - purl: pkg:scoop/jenkins
+  - purl: pkg:nix/nixpkgs/jenkins
+  - purl: pkg:apk/alpine/jenkins
+  - purl: pkg:alpm/arch/jenkins
   - cpe: cpe:/a:jenkins:jenkins
   - cpe: cpe:2.3:a:jenkins:jenkins
 

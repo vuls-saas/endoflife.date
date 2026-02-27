@@ -11,6 +11,11 @@ changelogTemplate: https://github.com/meilisearch/meilisearch/releases/tag/v__LA
 
 identifiers:
   - repology: meilisearch
+  - purl: pkg:brew/homebrew/meilisearch
+  - purl: pkg:scoop/meilisearch
+  - purl: pkg:nix/nixpkgs/meilisearch
+  - purl: pkg:apk/alpine/meilisearch
+  - purl: pkg:alpm/arch/meilisearch
 
 auto:
   methods:

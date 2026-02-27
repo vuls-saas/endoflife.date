@@ -15,6 +15,7 @@ versionCommand: spark-shell --version
 
 identifiers:
   - repology: apache-spark
+  - purl: pkg:brew/homebrew/apache-spark
   - cpe: cpe:/a:apache:spark
   - cpe: cpe:2.3:a:apache:spark
 

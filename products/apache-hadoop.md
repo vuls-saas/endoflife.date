@@ -14,6 +14,8 @@ versionCommand: hadoop version
 
 identifiers:
   - repology: hadoop
+  - purl: pkg:brew/homebrew/hadoop
+  - purl: pkg:nix/nixpkgs/hadoop
   - cpe: cpe:/a:apache:hadoop
   - cpe: cpe:2.3:a:apache:hadoop
   - cpe: cpe:/a:cloudera:hadoop

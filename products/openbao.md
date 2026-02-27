@@ -23,6 +23,11 @@ identifiers:
   - purl: pkg:oci/openbao?repository_url=quay.io/openbao
   - purl: pkg:oci/openbao-ubi?repository_url=quay.io/openbao
   - purl: pkg:brew/openbao
+  - purl: pkg:brew/homebrew/openbao
+  - purl: pkg:nix/nixpkgs/openbao
+  - purl: pkg:apk/alpine/openbao
+  - purl: pkg:rpm/fedora/openbao
+  - purl: pkg:rpm/opensuse/openbao
 
 auto:
   methods:

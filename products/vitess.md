@@ -17,6 +17,8 @@ auto:
 identifiers:
   - purl: pkg:github/vitessio/vitess
   - purl: pkg:docker/vitess/lite
+  - purl: pkg:brew/homebrew/vitess
+  - purl: pkg:nix/nixpkgs/vitess
   - repology: vitess
 
 # eol(x) = releaseDate(x) + 1 year

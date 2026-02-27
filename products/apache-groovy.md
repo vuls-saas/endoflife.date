@@ -21,6 +21,13 @@ identifiers:
   - purl: pkg:maven/org.apache.groovy/groovy
   - purl: pkg:maven/org.codehaus.groovy/groovy
   - purl: pkg:maven/org.codehaus.groovy/groovy-all
+  - purl: pkg:brew/homebrew/groovy
+  - purl: pkg:scoop/groovy
+  - purl: pkg:nix/nixpkgs/groovy
+  - purl: pkg:deb/debian/groovy
+  - purl: pkg:deb/ubuntu/groovy
+  - purl: pkg:rpm/opensuse/groovy
+  - purl: pkg:alpm/arch/groovy
 
 auto:
   methods:

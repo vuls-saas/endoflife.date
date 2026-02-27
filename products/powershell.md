@@ -16,6 +16,8 @@ eolColumn: Support Status
 
 identifiers:
   - purl: pkg:github/powershell/powershell
+  - purl: pkg:nix/nixpkgs/powershell
+  - purl: pkg:apk/alpine/powershell
   - repology: powershell
 
 customFields:

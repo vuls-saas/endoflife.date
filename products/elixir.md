@@ -12,6 +12,13 @@ staleReleaseThresholdDays: 1000 # expected given https://hexdocs.pm/elixir/compa
 
 identifiers:
   - repology: elixir
+  - purl: pkg:brew/homebrew/elixir
+  - purl: pkg:scoop/elixir
+  - purl: pkg:nix/nixpkgs/elixir
+  - purl: pkg:apk/alpine/elixir
+  - purl: pkg:rpm/fedora/elixir
+  - purl: pkg:rpm/opensuse/elixir
+  - purl: pkg:alpm/arch/elixir
 
 auto:
   methods:
