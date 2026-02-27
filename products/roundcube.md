@@ -12,6 +12,7 @@ eolColumn: Security Support
 
 identifiers:
   - repology: roundcube
+  - purl: pkg:docker/roundcube/roundcubemail
 
 auto:
   methods:

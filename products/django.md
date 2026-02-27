@@ -22,6 +22,7 @@ identifiers:
   - repology: python:django
   - purl: pkg:github/django/django
   - purl: pkg:pypi/django
+  - purl: pkg:docker/library/django
   - cpe: cpe:2.3:a:djangoproject:django
   - cpe: cpe:/a:djangoproject:django
 

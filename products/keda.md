@@ -24,6 +24,7 @@ identifiers:
   - purl: pkg:oci/keda-admission-webhooks?repository_url=ghcr.io/kedacore
   - purl: pkg:oci/keda-metrics-apiserver?repository_url=ghcr.io/kedacore
   - purl: pkg:oci/keda?repository_url=ghcr.io/kedacore
+  - purl: pkg:docker/kedacore/keda
 
 # eol(x) = releaseDate(x+2)
 # For supportedKubernetesVersions: https://keda.sh/docs/latest/operate/cluster/#kubernetes-compatibility

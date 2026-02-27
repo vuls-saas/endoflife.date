@@ -12,6 +12,7 @@ staleReleaseThresholdDays: 1000 # expected given https://hexdocs.pm/elixir/compa
 
 identifiers:
   - repology: elixir
+  - purl: pkg:docker/library/elixir
 
 auto:
   methods:

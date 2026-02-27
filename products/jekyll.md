@@ -21,6 +21,7 @@ identifiers:
   - cpe: cpe:/a:jekyllrb:jekyll
   - cpe: cpe:2.3:a:jekyllrb:jekyll
   - repology: ruby:jekyll
+  - purl: pkg:docker/jekyll/jekyll
 
 auto:
   methods:

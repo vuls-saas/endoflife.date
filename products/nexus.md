@@ -16,6 +16,7 @@ eolColumn: Extended Maintenance
 
 identifiers:
   - purl: pkg:github/sonatype/nexus-public
+  - purl: pkg:docker/sonatype/nexus
 
 auto:
   methods:

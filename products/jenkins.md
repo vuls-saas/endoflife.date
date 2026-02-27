@@ -11,6 +11,8 @@ eolColumn: Support
 
 identifiers:
   - repology: jenkins
+  - purl: pkg:docker/jenkins/jenkins
+  - purl: pkg:docker/jenkinsci/jenkins
   - cpe: cpe:/a:jenkins:jenkins
   - cpe: cpe:2.3:a:jenkins:jenkins
 

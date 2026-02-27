@@ -13,6 +13,7 @@ latestColumn: false
 identifiers:
   - cpe: cpe:/o:fedoraproject:fedora
   - cpe: cpe:2.3:o:fedoraproject:fedora
+  - purl: pkg:docker/library/fedora
 
 auto:
   methods:

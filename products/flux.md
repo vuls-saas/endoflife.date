@@ -20,6 +20,7 @@ auto:
 
 identifiers:
   - repology: fluxcd
+  - purl: pkg:docker/fluxcd/flux
 
 # eol(X) = releaseDate(X+3)
 releases:

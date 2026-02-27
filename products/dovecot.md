@@ -12,6 +12,7 @@ eoasColumn: Active Support
 
 identifiers:
   - repology: dovecot
+  - purl: pkg:docker/dovecot/dovecot
 
 auto:
   methods:

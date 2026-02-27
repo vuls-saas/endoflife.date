@@ -14,6 +14,7 @@ eoesColumn: Debian <abbr title="Long Term Support">LTS</abbr>
 identifiers:
   - cpe: cpe:2.3:o:debian:debian_linux
   - cpe: cpe:/o:debian:debian_linux
+  - purl: pkg:docker/library/debian
 
 auto:
   methods:

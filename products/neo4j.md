@@ -12,6 +12,7 @@ eolColumn: Support Status
 
 identifiers:
   - purl: pkg:github/neo4j/neo4j
+  - purl: pkg:docker/library/neo4j
 
 auto:
   methods:

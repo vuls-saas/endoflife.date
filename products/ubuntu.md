@@ -29,6 +29,7 @@ auto:
 identifiers:
   - cpe: cpe:2.3:o:canonical:ubuntu_linux
   - cpe: cpe:/o:canonical:ubuntu_linux
+  - purl: pkg:docker/library/ubuntu
 
 # Support and EOL dates available on https://wiki.ubuntu.com/Releases.
 # Exact day for some dates is not available, in this case use the same day as the release date.

@@ -14,6 +14,7 @@ auto:
 
 identifiers:
   - repology: telegraf
+  - purl: pkg:docker/library/telegraf
 
 # eol(x) = releaseDate(x+2)
 releases:

@@ -15,6 +15,7 @@ versionCommand: spark-shell --version
 
 identifiers:
   - repology: apache-spark
+  - purl: pkg:docker/library/spark
   - cpe: cpe:/a:apache:spark
   - cpe: cpe:2.3:a:apache:spark
 

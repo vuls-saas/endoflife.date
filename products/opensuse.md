@@ -20,6 +20,7 @@ identifiers:
   - cpe: cpe:/o:opensuse:leap
   - cpe: cpe:2.3:o:opensuse:opensuse
   - cpe: cpe:2.3:o:opensuse:leap
+  - purl: pkg:docker/library/opensuse
 
 releases:
   - releaseCycle: "16.0"

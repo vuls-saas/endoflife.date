@@ -13,6 +13,7 @@ versionCommand: artemis version
 
 identifiers:
   - repology: activemq-artemis
+  - purl: pkg:docker/apache/activemq-artemis
 
 auto:
   methods:

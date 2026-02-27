@@ -16,6 +16,7 @@ eoasColumn: true
 identifiers:
   - cpe: cpe:/o:almalinux:almalinux
   - cpe: cpe:2.3:o:almalinux:almalinux
+  - purl: pkg:docker/library/almalinux
 
 auto:
   methods:

@@ -11,6 +11,7 @@ eolColumn: Support Status
 
 identifiers:
   - repology: tarantool
+  - purl: pkg:docker/tarantool/tarantool
   - cpe: cpe:/a:tarantool:tarantool
   - cpe: cpe:2.3:a:tarantool:tarantool
 

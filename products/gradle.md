@@ -40,6 +40,7 @@ customFields:
 
 identifiers:
   - repology: gradle
+  - purl: pkg:docker/library/gradle
   - cpe: cpe:/a:gradle:gradle
   - cpe: cpe:2.3:a:gradle:gradle
 

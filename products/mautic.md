@@ -13,6 +13,7 @@ eoesColumn: true
 
 identifiers:
   - purl: pkg:github/mautic/mautic/
+  - purl: pkg:docker/mautic/mautic
 
 auto:
   methods:

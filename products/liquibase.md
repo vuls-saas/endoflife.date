@@ -10,6 +10,7 @@ changelogTemplate: https://github.com/liquibase/liquibase/releases/tag/v__LATEST
 
 identifiers:
   - repology: liquibase
+  - purl: pkg:docker/library/liquibase
 
 auto:
   methods:

@@ -15,6 +15,7 @@ identifiers:
   - cpe: cpe:/o:alpinelinux:alpine_linux
   - cpe: cpe:2.3:o:alpinelinux:alpine_linux
   - purl: pkg:swid/alpine?tag_id=alpine
+  - purl: pkg:docker/library/alpine
 
 auto:
   methods:

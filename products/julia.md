@@ -15,6 +15,7 @@ auto:
     - git: https://github.com/JuliaLang/julia.git
 identifiers:
   - repology: julia
+  - purl: pkg:docker/library/julia
 
 releases:
   - releaseCycle: "1.12"

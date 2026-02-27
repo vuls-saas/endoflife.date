@@ -12,6 +12,7 @@ eoasColumn: true
 identifiers:
   - cpe: cpe:/o:centos:centos
   - cpe: cpe:2.3:o:centos:centos
+  - purl: pkg:docker/library/centos
 
 releases:
   - releaseCycle: "8"

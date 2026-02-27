@@ -12,6 +12,7 @@ eoasColumn: true
 
 identifiers:
   - repology: erlang
+  - purl: pkg:docker/library/erlang
 
 auto:
   methods:

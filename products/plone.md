@@ -18,6 +18,7 @@ customFields:
 
 identifiers:
   - repology: plone
+  - purl: pkg:docker/library/plone
 
 auto:
   methods:

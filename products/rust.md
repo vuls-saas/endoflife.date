@@ -19,6 +19,7 @@ auto:
 
 identifiers:
   - repology: rust
+  - purl: pkg:docker/library/rust
 
 # eol(x) = releaseDate(x+1)
 releases:

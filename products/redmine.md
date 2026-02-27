@@ -10,6 +10,7 @@ changelogTemplate: "https://www.redmine.org/projects/redmine/wiki/Changelog_{{'_
 
 identifiers:
   - repology: redmine
+  - purl: pkg:docker/library/redmine
   - cpe: cpe:/a:redmine:redmine
   - cpe: cpe:2.3:a:redmine:redmine
 

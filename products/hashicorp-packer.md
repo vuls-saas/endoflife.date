@@ -14,6 +14,7 @@ versionCommand: packer --version
 
 identifiers:
   - repology: packer
+  - purl: pkg:docker/hashicorp/packer
 
 auto:
   methods:

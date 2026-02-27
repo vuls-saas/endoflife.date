@@ -10,6 +10,7 @@ eolColumn: Security Support
 
 identifiers:
   - repology: jaeger
+  - purl: pkg:docker/jaegertracing/jaeger
 
 auto:
   methods:

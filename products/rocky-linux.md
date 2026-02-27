@@ -16,6 +16,7 @@ eoasColumn: true
 identifiers:
   - cpe: cpe:/o:rocky:rocky
   - cpe: cpe:2.3:o:rocky:rocky
+  - purl: pkg:docker/library/rockylinux
 
 # distrowatch misses a few releases,
 # so we track https://wiki.rockylinux.org/rocky/version/#current-supported-releases

@@ -14,6 +14,7 @@ identifiers:
   - purl: pkg:docker/library/consul
   - purl: pkg:github/hashicorp/consul
   - purl: pkg:golang/github.com/hashicorp/consul
+  - purl: pkg:docker/hashicorp/consul
   - cpe: cpe:2.3:a:hashicorp:consul
   - cpe: cpe:/a:hashicorp:consul
 
