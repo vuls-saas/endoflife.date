@@ -23,6 +23,7 @@ identifiers:
   - purl: pkg:rpm/amzn/mongodb-enterprise-server
   - purl: pkg:rpm/redhat/mongodb-enterprise-server
   - purl: pkg:rpm/centos/mongodb-enterprise-server
+  - purl: pkg:oci/mongodb?repository_url=cgr.dev/chainguard
   - repology: mongodb
 
 auto:

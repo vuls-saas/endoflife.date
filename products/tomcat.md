@@ -20,6 +20,7 @@ identifiers:
   - repology: tomcat
   - purl: pkg:maven/org.apache.tomcat/tomcat
   - purl: pkg:github/apache/tomcat
+  - purl: pkg:oci/tomcat?repository_url=cgr.dev/chainguard
 
 auto:
   methods:

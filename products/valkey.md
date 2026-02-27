@@ -14,6 +14,7 @@ identifiers:
   - repology: valkey
   - purl: pkg:github/valkey-io/valkey
   - purl: pkg:docker/valkey/valkey
+  - purl: pkg:oci/valkey?repository_url=cgr.dev/chainguard
 
 auto:
   methods:

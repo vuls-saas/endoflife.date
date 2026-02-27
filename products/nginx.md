@@ -20,6 +20,7 @@ identifiers:
   - purl: pkg:apk/alpine/nginx
   - purl: pkg:rpm/opensuse/nginx
   - purl: pkg:github/nginx/nginx
+  - purl: pkg:oci/nginx?repository_url=cgr.dev/chainguard
   - cpe: cpe:2.3:a:f5:nginx
 
 auto:

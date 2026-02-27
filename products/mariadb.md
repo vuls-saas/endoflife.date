@@ -24,6 +24,7 @@ identifiers:
   - purl: pkg:rpm/redhat/mariadb-server
   - purl: pkg:rpm/centos/mariadb-server
   - purl: pkg:rpm/opensuse/mariadb
+  - purl: pkg:oci/mariadb?repository_url=cgr.dev/chainguard
 
 auto:
   methods:

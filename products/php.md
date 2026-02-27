@@ -15,6 +15,7 @@ identifiers:
   - purl: pkg:generic/php
   - purl: pkg:generic/php-cli
   - purl: pkg:generic/php-fpm
+  - purl: pkg:oci/php?repository_url=cgr.dev/chainguard
   - repology: php
   - cpe: cpe:2.3:a:php:php
   - cpe: cpe:/a:php:php

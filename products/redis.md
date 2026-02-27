@@ -23,6 +23,7 @@ identifiers:
   - purl: pkg:docker/cimg/redis
   - purl: pkg:docker/ubuntu/redis
   - purl: pkg:brew/redis/redis
+  - purl: pkg:oci/redis?repository_url=cgr.dev/chainguard
   - repology: redis
 
 auto:

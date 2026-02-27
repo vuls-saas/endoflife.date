@@ -29,6 +29,7 @@ identifiers:
   - purl: pkg:generic/postgresql
   - purl: pkg:docker/library/postgres
   - purl: pkg:deb/ubuntu/postgresql
+  - purl: pkg:oci/postgres?repository_url=cgr.dev/chainguard
   - cpe: cpe:2.3:a:postgresql:postgresql
   - cpe: cpe:/a:postgresql:postgresql
 

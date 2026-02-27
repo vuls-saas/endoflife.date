@@ -19,6 +19,7 @@ auto:
 
 identifiers:
   - repology: rust
+  - purl: pkg:oci/rust?repository_url=cgr.dev/chainguard
 
 # eol(x) = releaseDate(x+1)
 releases:

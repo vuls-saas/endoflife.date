@@ -21,6 +21,7 @@ identifiers:
   - purl: pkg:rpm/redhat/haproxy
   - purl: pkg:rpm/centos/haproxy
   - purl: pkg:apk/alpine/haproxy
+  - purl: pkg:oci/haproxy?repository_url=cgr.dev/chainguard
 
 # releaseCycle, releaseDate, lts, eol and latest are listed on https://www.haproxy.org/
 # eol dates noted as Q1-4 set to: Q1 -> YYYY-01-01, Q2 -> YYYY-04-01, Q3 -> YYYY-07-01, Q4 -> YYYY-10-01

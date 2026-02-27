@@ -20,6 +20,7 @@ identifiers:
   - purl: pkg:docker/cimg/go
   - purl: pkg:docker/bitnami/golang
   - purl: pkg:brew/go
+  - purl: pkg:oci/go?repository_url=cgr.dev/chainguard
   # - purl: pkg:snap/go
 
 auto:

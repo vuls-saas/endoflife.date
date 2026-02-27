@@ -86,6 +86,7 @@ identifiers:
   - purl: pkg:docker/circleci/python
   - purl: pkg:docker/bitnami/python
   - purl: pkg:github/python/cpython
+  - purl: pkg:oci/python?repository_url=cgr.dev/chainguard
   - repology: python
   - cpe: cpe:/a:python:python
   - cpe: cpe:2.3:a:python:python

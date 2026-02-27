@@ -20,6 +20,7 @@ identifiers:
   - purl: pkg:docker/library/node
   - purl: pkg:docker/cimg/node
   - purl: pkg:docker/bitnami/node
+  - purl: pkg:oci/node?repository_url=cgr.dev/chainguard
   - cpe: cpe:2.3:a:nodejs:node.js
   - repology: nodejs
 

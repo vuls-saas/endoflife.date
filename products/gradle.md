@@ -40,6 +40,7 @@ customFields:
 
 identifiers:
   - repology: gradle
+  - purl: pkg:oci/gradle?repository_url=cgr.dev/chainguard
   - cpe: cpe:/a:gradle:gradle
   - cpe: cpe:2.3:a:gradle:gradle
 

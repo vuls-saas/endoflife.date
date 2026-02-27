@@ -20,6 +20,7 @@ identifiers:
   - purl: pkg:composer/laravel/framework
   - purl: pkg:docker/bitnami/laravel
   - purl: pkg:github/laravel/framework
+  - purl: pkg:oci/laravel?repository_url=cgr.dev/chainguard
   - repology: php:laravel-framework
 
 # Note that laravel/laravel is just a starter application.

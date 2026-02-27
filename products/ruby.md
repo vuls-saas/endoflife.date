@@ -24,6 +24,7 @@ identifiers:
   - repology: ruby
   - purl: pkg:docker/library/ruby
   - purl: pkg:generic/ruby
+  - purl: pkg:oci/ruby?repository_url=cgr.dev/chainguard
 
 releases:
   - releaseCycle: "4.0"
