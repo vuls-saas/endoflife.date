@@ -12,7 +12,7 @@ eoasColumn: End of Fix
 eolColumn: End of support
 
 identifiers:
-  - cpe: cpe:2.3:a:veeam:veeam_backup_\&_replication
+  - cpe: cpe:/a:veeam:veeam_backup_%26_replication
 
 auto:
   methods:
