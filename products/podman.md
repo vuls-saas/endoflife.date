@@ -14,11 +14,9 @@ identifiers:
   - purl: pkg:apk/alpine/podman
   - purl: pkg:deb/debian/podman
   - purl: pkg:deb/ubuntu/podman
-  - purl: pkg:rpm/almalinux/podman
   - purl: pkg:rpm/centos/podman
   - purl: pkg:rpm/fedora/podman
   - purl: pkg:rpm/opensuse/podman
-  - purl: pkg:rpm/rocky/podman
   - purl: pkg:alpm/arch/podman
   - cpe: cpe:2.3:a:podman_project:podman
 

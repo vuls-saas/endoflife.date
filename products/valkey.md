@@ -17,11 +17,9 @@ identifiers:
   - purl: pkg:apk/alpine/valkey
   - purl: pkg:deb/debian/valkey
   - purl: pkg:deb/ubuntu/valkey
-  - purl: pkg:rpm/almalinux/valkey
   - purl: pkg:rpm/centos/valkey
   - purl: pkg:rpm/fedora/valkey
   - purl: pkg:rpm/opensuse/valkey
-  - purl: pkg:rpm/rocky/valkey
   - purl: pkg:alpm/arch/valkey
   - cpe: cpe:2.3:a:lfprojects:valkey
 

@@ -12,10 +12,8 @@ eolColumn: Support
 
 identifiers:
   - repology: lua
-  - purl: pkg:rpm/almalinux/lua
   - purl: pkg:rpm/centos/lua
   - purl: pkg:rpm/fedora/lua
-  - purl: pkg:rpm/rocky/lua
   - purl: pkg:alpm/arch/lua
   - cpe: cpe:/a:lua:lua
   - cpe: cpe:2.3:a:lua:lua

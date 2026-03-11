@@ -22,7 +22,6 @@ identifiers:
   - purl: pkg:rpm/centos/scala
   - purl: pkg:rpm/fedora/scala
   - purl: pkg:rpm/opensuse/scala
-  - purl: pkg:rpm/rocky/scala
   - cpe: cpe:/a:scala-lang:scala
   - cpe: cpe:2.3:a:scala-lang:scala
 

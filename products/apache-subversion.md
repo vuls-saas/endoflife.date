@@ -17,11 +17,9 @@ identifiers:
   - purl: pkg:apk/alpine/subversion
   - purl: pkg:deb/debian/subversion
   - purl: pkg:deb/ubuntu/subversion
-  - purl: pkg:rpm/almalinux/subversion
   - purl: pkg:rpm/centos/subversion
   - purl: pkg:rpm/fedora/subversion
   - purl: pkg:rpm/opensuse/subversion
-  - purl: pkg:rpm/rocky/subversion
   - purl: pkg:alpm/arch/subversion
   - cpe: cpe:2.3:a:apache:subversion
 

@@ -14,11 +14,9 @@ identifiers:
   - purl: pkg:golang/github.com/grafana/grafana
   - purl: pkg:apk/alpine/grafana
   - purl: pkg:deb/ubuntu/grafana
-  - purl: pkg:rpm/almalinux/grafana
   - purl: pkg:rpm/centos/grafana
   - purl: pkg:rpm/fedora/grafana
   - purl: pkg:rpm/opensuse/grafana
-  - purl: pkg:rpm/rocky/grafana
   - purl: pkg:alpm/arch/grafana
   - cpe: cpe:2.3:a:grafana:grafana
 

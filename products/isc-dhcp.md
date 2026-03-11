@@ -12,11 +12,9 @@ identifiers:
   - repology: dhcp
   - purl: pkg:docker/networkboot/dhcpd
   - purl: pkg:apk/alpine/dhcp
-  - purl: pkg:rpm/almalinux/dhcp
   - purl: pkg:rpm/centos/dhcp
   - purl: pkg:rpm/fedora/dhcp
   - purl: pkg:rpm/opensuse/dhcp
-  - purl: pkg:rpm/rocky/dhcp
   - purl: pkg:alpm/arch/dhcp
   - cpe: cpe:2.3:a:isc:dhcp
 

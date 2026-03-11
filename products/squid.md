@@ -18,10 +18,8 @@ identifiers:
   - purl: pkg:rpm/centos/squid
   - purl: pkg:apk/alpine/squid
   - purl: pkg:github/squid-cache/squid
-  - purl: pkg:rpm/almalinux/squid
   - purl: pkg:rpm/fedora/squid
   - purl: pkg:rpm/opensuse/squid
-  - purl: pkg:rpm/rocky/squid
   - purl: pkg:alpm/arch/squid
   - cpe: cpe:2.3:a:squid-cache:squid
 

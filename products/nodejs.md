@@ -24,9 +24,7 @@ identifiers:
   - purl: pkg:apk/alpine/nodejs
   - purl: pkg:deb/debian/nodejs
   - purl: pkg:deb/ubuntu/nodejs
-  - purl: pkg:rpm/almalinux/nodejs
   - purl: pkg:rpm/centos/nodejs
-  - purl: pkg:rpm/rocky/nodejs
   - purl: pkg:alpm/arch/nodejs
   - cpe: cpe:2.3:a:nodejs:node.js
   - repology: nodejs

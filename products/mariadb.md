@@ -25,10 +25,8 @@ identifiers:
   - purl: pkg:rpm/centos/mariadb-server
   - purl: pkg:rpm/opensuse/mariadb
   - purl: pkg:github/mariadb/server
-  - purl: pkg:rpm/almalinux/mariadb
   - purl: pkg:rpm/centos/mariadb
   - purl: pkg:rpm/fedora/mariadb
-  - purl: pkg:rpm/rocky/mariadb
   - purl: pkg:alpm/arch/mariadb
   - cpe: cpe:2.3:a:mariadb:mariadb
 

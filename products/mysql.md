@@ -33,9 +33,7 @@ identifiers:
   - purl: pkg:deb/ubuntu/mysql-server
   - purl: pkg:deb/debian/mysql
   - purl: pkg:github/mysql/mysql-server
-  - purl: pkg:rpm/almalinux/mysql
   - purl: pkg:rpm/centos/mysql
-  - purl: pkg:rpm/rocky/mysql
   - cpe: cpe:2.3:a:oracle:mysql
 
 # For LTS: see https://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
