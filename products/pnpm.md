@@ -12,6 +12,7 @@ eolColumn: Support
 
 identifiers:
   - purl: pkg:npm/pnpm
+  - purl: pkg:github/pnpm/pnpm
   - repology: pnpm
   - cpe: cpe:2.3:a:pnpm:pnpm
 

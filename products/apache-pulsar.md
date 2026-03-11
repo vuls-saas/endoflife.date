@@ -13,6 +13,7 @@ eolColumn: Active Support
 eoesColumn: Security Support
 
 identifiers:
+  - purl: pkg:maven/org.apache.pulsar/pulsar-broker
   - cpe: cpe:2.3:a:apache:pulsar
 
 auto:

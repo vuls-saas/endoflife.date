@@ -11,6 +11,9 @@ changelogTemplate: "https://github.com/micronaut-projects/micronaut-core/release
 eoasColumn: Active Development
 eolColumn: Active Maintenance
 
+
+identifiers:
+  - purl: pkg:maven/io.micronaut/micronaut-core
 auto:
   methods:
     - git: https://github.com/micronaut-projects/micronaut-core.git
