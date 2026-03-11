@@ -11,6 +11,13 @@ changelogTemplate: https://ant.apache.org/antnews.html
 versionCommand: ant -version
 
 identifiers:
+  - purl: pkg:maven/org.apache.ant/ant
+  - purl: pkg:deb/debian/ant
+  - purl: pkg:deb/ubuntu/ant
+  - purl: pkg:rpm/centos/ant
+  - purl: pkg:rpm/fedora/ant
+  - purl: pkg:rpm/opensuse/ant
+  - purl: pkg:alpm/arch/ant
   - cpe: cpe:/a:apache:ant
   - cpe: cpe:2.3:a:apache:ant
   - repology: ant

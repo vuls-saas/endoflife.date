@@ -86,6 +86,8 @@ identifiers:
   - purl: pkg:docker/circleci/python
   - purl: pkg:docker/bitnami/python
   - purl: pkg:github/python/cpython
+  - purl: pkg:rpm/opensuse/python
+  - purl: pkg:alpm/arch/python
   - repology: python
   - cpe: cpe:/a:python:python
   - cpe: cpe:2.3:a:python:python

@@ -10,6 +10,7 @@ eoasColumn: true
 
 identifiers:
   - purl: pkg:github/gravitational/teleport
+  - purl: pkg:rpm/opensuse/teleport
   - repology: teleport
   - cpe: cpe:2.3:a:goteleport:teleport
 

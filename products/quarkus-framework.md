@@ -18,6 +18,7 @@ identifiers:
   - cpe: cpe:/a:quarkus:quarkus
   - cpe: cpe:2.3:a:quarkus:quarkus
   - purl: pkg:maven/io.quarkus.platform/quarkus-bom
+  - purl: pkg:github/quarkusio/quarkus
 
 # The Quarkus team forgot to declare a GitHub release for 2.11.0.
 # Tag and Maven release of new minor versions are usually created

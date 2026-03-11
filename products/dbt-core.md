@@ -14,6 +14,7 @@ eolColumn: Critical Support
 
 identifiers:
   - repology: dbt-core
+  - purl: pkg:github/dbt-labs/dbt-core
   - cpe: cpe:2.3:a:getdbt:dbt_core
 
 auto:

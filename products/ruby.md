@@ -24,6 +24,12 @@ identifiers:
   - repology: ruby
   - purl: pkg:docker/library/ruby
   - purl: pkg:generic/ruby
+  - purl: pkg:github/ruby/ruby
+  - purl: pkg:apk/alpine/ruby
+  - purl: pkg:rpm/centos/ruby
+  - purl: pkg:rpm/fedora/ruby
+  - purl: pkg:rpm/opensuse/ruby
+  - purl: pkg:alpm/arch/ruby
   - cpe: cpe:2.3:a:ruby-lang:ruby
 
 releases:

@@ -12,6 +12,18 @@ releasePolicyLink: https://aws.amazon.com/corretto/faqs/
 changelogTemplate: https://github.com/corretto/corretto-__RELEASE_CYCLE__/releases/tag/__LATEST__
 
 identifiers:
+  - purl: pkg:github/corretto/corretto-11
+  - purl: pkg:github/corretto/corretto-17
+  - purl: pkg:github/corretto/corretto-18
+  - purl: pkg:github/corretto/corretto-19
+  - purl: pkg:github/corretto/corretto-20
+  - purl: pkg:github/corretto/corretto-21
+  - purl: pkg:github/corretto/corretto-22
+  - purl: pkg:github/corretto/corretto-23
+  - purl: pkg:github/corretto/corretto-24
+  - purl: pkg:github/corretto/corretto-25
+  - purl: pkg:github/corretto/corretto-8
+  - purl: pkg:github/corretto/corretto-jdk
   - cpe: cpe:/a:amazon:corretto
   - cpe: cpe:2.3:a:amazon:corretto
 

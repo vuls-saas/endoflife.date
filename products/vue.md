@@ -22,6 +22,8 @@ identifiers:
   - purl: pkg:npm/vue
   - purl: pkg:github/vuejs/vue
   - purl: pkg:github/vuejs/core
+  - purl: pkg:deb/debian/vue.js
+  - purl: pkg:deb/ubuntu/vue.js
 
 releases:
   - releaseCycle: "3.5"

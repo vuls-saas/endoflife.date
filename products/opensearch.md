@@ -31,6 +31,10 @@ auto:
 identifiers:
   - repology: opensearch
   - purl: pkg:docker/opensearchproject/opensearch
+  - purl: pkg:github/opensearch-project/opensearch
+  - purl: pkg:deb/debian/opensearch
+  - purl: pkg:deb/ubuntu/opensearch
+  - purl: pkg:alpm/arch/opensearch
   - cpe: cpe:2.3:a:amazon:opensearch
     
 releases:

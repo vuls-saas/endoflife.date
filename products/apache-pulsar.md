@@ -13,6 +13,7 @@ eolColumn: Active Support
 eoesColumn: Security Support
 
 identifiers:
+  - purl: pkg:github/apache/pulsar
   - cpe: cpe:2.3:a:apache:pulsar
 
 auto:

@@ -24,6 +24,10 @@ auto:
 
 identifiers:
   - repology: forgejo
+  - purl: pkg:apk/alpine/forgejo
+  - purl: pkg:rpm/fedora/forgejo
+  - purl: pkg:rpm/opensuse/forgejo
+  - purl: pkg:alpm/arch/forgejo
   - cpe: cpe:2.3:a:forgejo:forgejo
 
 # eol dates: https://forgejo.org/releases/ or https://forgejo.org/docs/latest/admin/release-schedule/

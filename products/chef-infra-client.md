@@ -15,6 +15,7 @@ eoasColumn: true
 identifiers:
   - repology: chef-client
   - repology: chef-infra
+  - purl: pkg:github/chef/chef
   - cpe: cpe:2.3:a:chef:chef
 
 auto:

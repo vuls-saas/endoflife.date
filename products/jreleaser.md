@@ -10,6 +10,10 @@ changelogTemplate: "https://github.com/jreleaser/jreleaser/releases/tag/v__LATES
 eoasColumn: true
 eolColumn: Security Support
 
+
+identifiers:
+  - purl: pkg:maven/org.jreleaser/jreleaser
+  - purl: pkg:apk/alpine/jreleaser
 auto:
   methods:
     - maven: org.jreleaser/jreleaser
