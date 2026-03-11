@@ -21,6 +21,7 @@ identifiers:
   - purl: pkg:maven/org.apache.groovy/groovy
   - purl: pkg:maven/org.codehaus.groovy/groovy
   - purl: pkg:maven/org.codehaus.groovy/groovy-all
+  - purl: pkg:docker/library/groovy
 
 auto:
   methods:

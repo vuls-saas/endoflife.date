@@ -21,6 +21,7 @@ customFields:
     description: Linux Kernel Version
 
 identifiers:
+  - purl: pkg:docker/library/photon
   - cpe: cpe:2.3:o:vmware:photon_os
   - cpe: cpe:/o:vmware:photon_os
 

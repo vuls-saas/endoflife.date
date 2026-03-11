@@ -21,6 +21,7 @@ identifiers:
   - purl: pkg:rpm/redhat/haproxy
   - purl: pkg:rpm/centos/haproxy
   - purl: pkg:apk/alpine/haproxy
+  - purl: pkg:docker/library/haproxy
   - cpe: cpe:2.3:a:haproxy:haproxy
 
 # releaseCycle, releaseDate, lts, eol and latest are listed on https://www.haproxy.org/

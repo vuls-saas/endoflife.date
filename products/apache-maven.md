@@ -15,6 +15,7 @@ eolColumn: Support
 
 identifiers:
   - repology: maven
+  - purl: pkg:docker/library/maven
   - cpe: cpe:/a:apache:maven
   - cpe: cpe:2.3:a:apache:maven
   - repology: maven-shared-utils

@@ -17,6 +17,7 @@ versionCommand: |-
 
 identifiers:
   - repology: apache
+  - purl: pkg:docker/library/httpd
   - cpe: cpe:/a:apache:http_server
   - cpe: cpe:2.3:a:apache:http_server
 

@@ -12,6 +12,7 @@ releasePolicyLink: https://aws.amazon.com/corretto/faqs/
 changelogTemplate: https://github.com/corretto/corretto-__RELEASE_CYCLE__/releases/tag/__LATEST__
 
 identifiers:
+  - purl: pkg:docker/library/amazoncorretto
   - cpe: cpe:/a:amazon:corretto
   - cpe: cpe:2.3:a:amazon:corretto
 

@@ -9,6 +9,7 @@ eoasColumn: true
 
 identifiers:
   - repology: phpbb
+  - purl: pkg:composer/phpbb/phpbb
   - cpe: cpe:/a:phpbb:phpbb
   - cpe: cpe:2.3:a:phpbb:phpbb
 

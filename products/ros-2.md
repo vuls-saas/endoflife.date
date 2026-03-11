@@ -13,6 +13,9 @@ releaseLabel: "__CODENAME__"
 latestColumn: false
 eolColumn: End Of Life
 
+
+identifiers:
+  - purl: pkg:docker/library/ros
 auto:
   methods:
     - release_table: https://docs.ros.org/en/rolling/Releases.html

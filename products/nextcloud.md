@@ -10,6 +10,7 @@ releasePolicyLink: https://github.com/nextcloud/server/wiki/Maintenance-and-Rele
 changelogTemplate: "https://nextcloud.com/changelog/#latest__RELEASE_CYCLE__"
 
 identifiers:
+  - purl: pkg:docker/library/nextcloud
   - cpe: cpe:2.3:a:nextcloud:nextcloud_server
 
 auto:

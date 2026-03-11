@@ -32,6 +32,9 @@ releases:
     codename: "Kinetic Kame"
     releaseDate: 2016-05-23
     eol: 2021-05-01
+
+identifiers:
+  - purl: pkg:docker/library/ros
 ---
 
 > ROS (Robot Operating System) provides libraries and tools to help software developers create robot
