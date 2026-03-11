@@ -23,6 +23,7 @@ auto:
 
 identifiers:
   - purl: pkg:github/kubernetes-sigs/node-feature-discovery
+  - purl: pkg:golang/github.com/kubernetes-sigs/node-feature-discovery
 
 # eol(x) = releaseDate(x+2)
 releases:

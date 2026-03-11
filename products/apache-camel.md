@@ -19,6 +19,7 @@ customFields:
     link: https://camel.apache.org/manual/what-are-the-dependencies.html
 
 identifiers:
+  - purl: pkg:maven/org.apache.camel/camel-core
   - cpe: cpe:/a:apache:camel
   - cpe: cpe:2.3:a:apache:camel
 

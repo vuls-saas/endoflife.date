@@ -15,6 +15,7 @@ identifiers:
   - repology: opentofu
   - purl: pkg:github/opentofu/opentofu
   - purl: pkg:oci/opentofu?repository_url=ghcr.io/opentofu
+  - purl: pkg:golang/github.com/opentofu/opentofu
 
 auto:
   methods:

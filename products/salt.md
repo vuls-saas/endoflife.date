@@ -35,6 +35,7 @@ identifiers:
   - repology: salt
   - purl: pkg:oci/docker-salt-master?repository_url=ghcr.io/cdalvaro
   - purl: pkg:docker/saltstack/salt
+  - purl: pkg:pypi/salt
   - cpe: cpe:2.3:a:saltstack:salt
 
 # link(x) =

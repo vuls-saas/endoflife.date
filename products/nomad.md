@@ -11,6 +11,7 @@ changelogTemplate: https://github.com/hashicorp/nomad/blob/v__LATEST__/CHANGELOG
 
 identifiers:
   - repology: nomad-scheduler
+  - purl: pkg:golang/github.com/hashicorp/nomad
   - cpe: cpe:/a:hashicorp:nomad
   - cpe: cpe:2.3:a:hashicorp:nomad
 

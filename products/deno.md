@@ -12,6 +12,7 @@ changelogTemplate: https://github.com/denoland/deno/releases/tag/v__LATEST__
 identifiers:
   - purl: pkg:docker/denoland/deno
   - purl: pkg:github/denoland/deno
+  - purl: pkg:npm/deno
   - repology: deno
   - cpe: cpe:2.3:a:deno:deno
 
