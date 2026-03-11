@@ -20,6 +20,8 @@ auto:
 
 identifiers:
   - repology: fluxcd
+  - purl: pkg:github/fluxcd/flux2
+  - purl: pkg:alpm/arch/fluxcd
   - cpe: cpe:2.3:a:fluxcd:flux2
 
 # eol(X) = releaseDate(X+3)

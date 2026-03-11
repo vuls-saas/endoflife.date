@@ -15,6 +15,9 @@ versionCommand: ${KAFKA_HOME}/bin/kafka-topics.sh --version
 
 identifiers:
   - repology: kafka
+  - purl: pkg:github/apache/kafka
+  - purl: pkg:rpm/opensuse/kafka
+  - purl: pkg:alpm/arch/kafka
   - cpe: cpe:/a:apache:kafka
   - cpe: cpe:2.3:a:apache:kafka
 

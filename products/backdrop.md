@@ -9,6 +9,7 @@ releaseImage: https://backdropcms.org/files/images/release-cycles.png
 changelogTemplate: https://github.com/backdrop/backdrop/releases/tag/__LATEST__
 
 identifiers:
+  - purl: pkg:github/backdrop/backdrop
   - cpe: cpe:2.3:a:backdropcms:backdrop_cms
   - cpe: cpe:2.3:a:backdropcms:backdrop
 

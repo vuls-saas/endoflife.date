@@ -15,6 +15,10 @@ identifiers:
   - repology: opentofu
   - purl: pkg:github/opentofu/opentofu
   - purl: pkg:oci/opentofu?repository_url=ghcr.io/opentofu
+  - purl: pkg:apk/alpine/opentofu
+  - purl: pkg:rpm/fedora/opentofu
+  - purl: pkg:rpm/opensuse/opentofu
+  - purl: pkg:alpm/arch/opentofu
 
 auto:
   methods:

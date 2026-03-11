@@ -11,6 +11,7 @@ eolColumn: Support
 
 identifiers:
   - repology: kibana
+  - purl: pkg:github/elastic/kibana
   - cpe: cpe:/a:elastic:kibana
   - cpe: cpe:2.3:a:elastic:kibana
 

@@ -13,6 +13,9 @@ identifiers:
   - repology: terraform
   - purl: pkg:github/hashicorp/terraform
   - purl: pkg:generic/terraform
+  - purl: pkg:apk/alpine/terraform
+  - purl: pkg:rpm/opensuse/terraform
+  - purl: pkg:alpm/arch/terraform
   - cpe: cpe:2.3:a:hashicorp:terraform
 
 auto:

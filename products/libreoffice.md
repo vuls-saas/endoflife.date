@@ -10,6 +10,14 @@ eolColumn: Support Status
 
 identifiers:
   - repology: libreoffice
+  - purl: pkg:apk/alpine/libreoffice
+  - purl: pkg:deb/debian/libreoffice
+  - purl: pkg:deb/ubuntu/libreoffice
+  - purl: pkg:rpm/almalinux/libreoffice
+  - purl: pkg:rpm/centos/libreoffice
+  - purl: pkg:rpm/fedora/libreoffice
+  - purl: pkg:rpm/opensuse/libreoffice
+  - purl: pkg:rpm/rocky/libreoffice
   - cpe: cpe:/a:libreoffice:libreoffice
   - cpe: cpe:2.3:a:libreoffice:libreoffice
 

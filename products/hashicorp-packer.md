@@ -14,6 +14,11 @@ versionCommand: packer --version
 
 identifiers:
   - repology: packer
+  - purl: pkg:github/hashicorp/packer
+  - purl: pkg:apk/alpine/packer
+  - purl: pkg:deb/debian/packer
+  - purl: pkg:deb/ubuntu/packer
+  - purl: pkg:alpm/arch/packer
   - cpe: cpe:2.3:a:hashicorp:packer
 
 auto:

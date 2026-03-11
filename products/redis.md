@@ -23,6 +23,12 @@ identifiers:
   - purl: pkg:docker/cimg/redis
   - purl: pkg:docker/ubuntu/redis
   - purl: pkg:brew/redis/redis
+  - purl: pkg:github/redis/redis
+  - purl: pkg:apk/alpine/redis
+  - purl: pkg:rpm/almalinux/redis
+  - purl: pkg:rpm/fedora/redis
+  - purl: pkg:rpm/opensuse/redis
+  - purl: pkg:rpm/rocky/redis
   - repology: redis
   - cpe: cpe:2.3:a:redis:redis
 

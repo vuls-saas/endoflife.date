@@ -12,6 +12,9 @@ eolColumn: Support
 
 identifiers:
   - purl: pkg:npm/pnpm
+  - purl: pkg:apk/alpine/pnpm
+  - purl: pkg:rpm/opensuse/pnpm
+  - purl: pkg:alpm/arch/pnpm
   - repology: pnpm
   - cpe: cpe:2.3:a:pnpm:pnpm
 

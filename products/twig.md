@@ -12,6 +12,7 @@ auto:
 
 identifiers:
   - repology: php:twig
+  - purl: pkg:github/twigphp/twig
   - cpe: cpe:2.3:a:symfony:twig
 
 releases:

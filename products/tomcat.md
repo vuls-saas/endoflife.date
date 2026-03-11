@@ -20,6 +20,11 @@ identifiers:
   - repology: tomcat
   - purl: pkg:maven/org.apache.tomcat/tomcat
   - purl: pkg:github/apache/tomcat
+  - purl: pkg:rpm/almalinux/tomcat
+  - purl: pkg:rpm/centos/tomcat
+  - purl: pkg:rpm/fedora/tomcat
+  - purl: pkg:rpm/opensuse/tomcat
+  - purl: pkg:rpm/rocky/tomcat
   - cpe: cpe:2.3:a:apache:tomcat
 
 auto:
