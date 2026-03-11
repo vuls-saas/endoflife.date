@@ -9,6 +9,7 @@ changelogTemplate: https://docs.vmware.com/en/VMware-Harbor-Registry/services/vm
 eolColumn: End of general support
 
 identifiers:
+  - purl: pkg:docker/library/registry
   - cpe: cpe:2.3:a:vmware:harbor_container_registry
 
 releases:

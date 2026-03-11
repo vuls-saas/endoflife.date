@@ -14,6 +14,7 @@ eolColumn: Supported
 
 identifiers:
   - repology: puppet
+  - purl: pkg:gem/puppet
   - cpe: cpe:/a:puppet:puppet
   - cpe: cpe:2.3:a:puppet:puppet
 

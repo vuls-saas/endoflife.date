@@ -15,6 +15,7 @@ auto:
     - git: https://github.com/JuliaLang/julia.git
 identifiers:
   - repology: julia
+  - purl: pkg:docker/library/julia
   - cpe: cpe:2.3:a:julialang:julia
 
 releases:

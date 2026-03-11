@@ -13,6 +13,7 @@ identifiers:
   - repology: docker-ce
   - repology: docker-containers
   - repology: moby
+  - purl: pkg:docker/library/docker
   - cpe: cpe:2.3:a:docker:engine
   - cpe: cpe:/a:docker:engine
 

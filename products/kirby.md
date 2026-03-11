@@ -16,6 +16,7 @@ customFields:
     link: https://getkirby.com/docs/reference/system/requirements#php-version-support-history
 
 identifiers:
+  - purl: pkg:composer/getkirby/cms
   - cpe: cpe:/a:getkirby:kirby
   - cpe: cpe:2.3:a:getkirby:kirby
 

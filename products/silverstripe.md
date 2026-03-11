@@ -17,6 +17,7 @@ eolColumn: Security Support
 identifiers:
   - purl: pkg:composer/silverstripe/cms
   - purl: pkg:github/silverstripe/silverstripe-installer
+  - purl: pkg:composer/silverstripe/installer
 
 auto:
   methods:

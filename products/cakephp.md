@@ -22,6 +22,7 @@ customFields:
 
 identifiers:
   - repology: cakephp
+  - purl: pkg:composer/cakephp/cakephp
   - cpe: cpe:/a:cakephp:cakephp
   - cpe: cpe:2.3:a:cakephp:cakephp
   - cpe: cpe:/a:cakefoundation:cakephp

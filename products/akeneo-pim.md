@@ -10,6 +10,7 @@ releaseLabel: "__RELEASE_CYCLE__ (__CODENAME__)"
 eolColumn: Support
 
 identifiers:
+  - purl: pkg:composer/akeneo/pim-community-dev
   - cpe: cpe:/a:akeneo:product_information_management
   - cpe: cpe:2.3:a:akeneo:product_information_management
 

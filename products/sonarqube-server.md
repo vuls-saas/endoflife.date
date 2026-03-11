@@ -10,6 +10,7 @@ eoasColumn: true
 
 identifiers:
   - repology: sonarqube
+  - purl: pkg:docker/library/sonarqube
 
 auto:
   methods:

@@ -14,6 +14,7 @@ changelogTemplate: https://wiki.almalinux.org/release-notes/__LATEST__.html
 eoasColumn: true
 
 identifiers:
+  - purl: pkg:docker/library/almalinux
   - cpe: cpe:/o:almalinux:almalinux
   - cpe: cpe:2.3:o:almalinux:almalinux
 
