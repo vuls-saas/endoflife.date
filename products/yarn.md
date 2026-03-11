@@ -12,7 +12,7 @@ identifiers:
   - purl: pkg:github/yarnpkg/berry
   - purl: pkg:github/yarnpkg/yarn
   - purl: pkg:npm/yarn
-  - purl: pkg:npm/@yarnpkg/cli
+  - purl: pkg:npm/%40yarnpkg/cli
   - purl: pkg:apk/alpine/yarn
   - purl: pkg:rpm/opensuse/yarn
   - purl: pkg:alpm/arch/yarn
