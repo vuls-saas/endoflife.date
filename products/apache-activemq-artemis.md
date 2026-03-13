@@ -13,7 +13,11 @@ versionCommand: artemis version
 
 identifiers:
   - repology: activemq-artemis
+<<<<<<< HEAD
   - purl: pkg:github/apache/activemq-artemis
+=======
+  - cpe: cpe:2.3:a:apache:activemq_artemis
+>>>>>>> origin/master
 
 auto:
   methods:
