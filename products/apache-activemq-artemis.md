@@ -14,6 +14,7 @@ versionCommand: artemis version
 identifiers:
   - repology: activemq-artemis
   - cpe: cpe:2.3:a:apache:activemq_artemis
+  - purl: pkg:github/apache/activemq-artemis
 
 auto:
   methods:
