@@ -6,7 +6,7 @@ on:
     - cron: "0 0 * * 3" # Run weekly on Wednesday at 00:00 UTC
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   sync:
