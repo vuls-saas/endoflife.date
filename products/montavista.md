@@ -1,6 +1,5 @@
 ---
 title: Montavista
-releasePolicyLink: https://www.mvista.com/jp/about_press/detail/extend-support-for-cge6-jp
 
 identifiers:
   - cpe: cpe:/o:montavista_software:hard_hat_linux
