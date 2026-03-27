@@ -1,5 +1,7 @@
 ---
 title: Montavista
+category: os
+permalink: /montavista
 
 identifiers:
   - cpe: cpe:/o:montavista_software:hard_hat_linux
