@@ -42,6 +42,8 @@ releases:
     latest: "2.9.30"
     latestReleaseDate: 2017-04-04
 
+identifiers:
+  - purl: pkg:github/chef/supermarket
 ---
 
 > [Chef Supermarket](https://docs.chef.io/supermarket/) is a self-hosted artifact store that lets you store,

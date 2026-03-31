@@ -62,6 +62,11 @@ releases:
     latest: "11.0.30"
     latestReleaseDate: 2026-01-21
 
+identifiers:
+  - purl: pkg:github/microsoft/openjdk-jdk11u
+  - purl: pkg:github/microsoft/openjdk-jdk17u
+  - purl: pkg:github/microsoft/openjdk-jdk21u
+  - purl: pkg:github/microsoft/openjdk-jdk25u
 ---
 
 > The [Microsoft Build of OpenJDK](https://learn.microsoft.com/java/openjdk/) is a [GPLv2 with CPE](https://openjdk.org/legal/gplv2+ce.html)

@@ -10,6 +10,8 @@ eoasColumn: true
 
 identifiers:
   - repology: contao
+  - purl: pkg:github/contao/contao
+  - purl: pkg:composer/contao/contao
   - cpe: cpe:/a:contao:contao
   - cpe: cpe:2.3:a:contao:contao
 

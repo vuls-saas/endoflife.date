@@ -18,6 +18,9 @@ identifiers:
   - cpe: cpe:/a:apache:kafka
   - cpe: cpe:2.3:a:apache:kafka
   - purl: pkg:github/apache/kafka
+  - purl: pkg:rpm/opensuse/kafka
+  - purl: pkg:alpm/arch/kafka
+  - purl: pkg:maven/org.apache.kafka/kafka-server
 
 auto:
   methods:

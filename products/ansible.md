@@ -38,6 +38,10 @@ identifiers:
   - purl: pkg:deb/debian/ansible
   - purl: pkg:apk/alpine/ansible
   - purl: pkg:github/ansible/ansible
+  - purl: pkg:deb/ubuntu/ansible
+  - purl: pkg:rpm/fedora/ansible
+  - purl: pkg:rpm/opensuse/ansible
+  - purl: pkg:alpm/arch/ansible
   - repology: ansible
   - cpe: cpe:2.3:a:redhat:ansible
 

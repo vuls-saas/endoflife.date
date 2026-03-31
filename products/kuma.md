@@ -160,6 +160,8 @@ releases:
     latestReleaseDate: 2021-08-26
     link: https://github.com/kumahq/kuma/releases/tag/__LATEST__
 
+identifiers:
+  - purl: pkg:github/kumahq/kuma
 ---
 
 > [Kuma](https://kuma.io/) is a multi-zone service mesh for containers, Kubernetes and VMs.
