@@ -18,6 +18,7 @@ auto:
       regex: '^yocto-(?P<major>[1-9]\d*)\.(?P<minor>\d+)\.?(?P<patch>\d+)?$'
 
 identifiers:
+  - purl: pkg:github/yoctoproject/poky
   - cpe: cpe:2.3:a:linuxfoundation:yocto
   - cpe: cpe:/a:linuxfoundation:yocto
 

@@ -16,6 +16,8 @@ eolColumn: Support Status
 
 identifiers:
   - purl: pkg:github/powershell/powershell
+  - purl: pkg:nuget/powershell
+  - purl: pkg:apk/alpine/powershell
   - repology: powershell
   - cpe: cpe:2.3:a:microsoft:powershell
 

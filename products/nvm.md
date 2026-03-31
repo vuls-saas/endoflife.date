@@ -18,6 +18,7 @@ auto:
 
 identifiers:
   - purl: pkg:github/nvm-sh/nvm
+  - purl: pkg:alpm/arch/nvm
 
 # eol(x) = releaseDate(x+1)
 releases:

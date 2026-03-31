@@ -25,6 +25,17 @@ identifiers:
   - purl: pkg:github/apache/maven
   - purl: pkg:maven/org.apache.maven/maven
   - purl: pkg:rpm/opensuse/maven
+  - purl: pkg:docker/library/maven
+  - purl: pkg:apk/alpine/maven
+  - purl: pkg:deb/debian/maven-shared-utils
+  - purl: pkg:deb/ubuntu/maven-shared-utils
+  - purl: pkg:rpm/centos/maven
+  - purl: pkg:rpm/centos/maven-shared-utils
+  - purl: pkg:rpm/fedora/maven
+  - purl: pkg:rpm/fedora/maven-shared-utils
+  - purl: pkg:rpm/opensuse/maven-shared-utils
+  - purl: pkg:alpm/arch/maven
+  - purl: pkg:maven/org.apache.maven/maven-core
 
 auto:
   methods:

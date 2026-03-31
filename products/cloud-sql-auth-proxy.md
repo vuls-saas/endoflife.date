@@ -32,6 +32,8 @@ releases:
     latest: "1.37.14"
     latestReleaseDate: 2026-03-19
 
+identifiers:
+  - purl: pkg:github/googlecloudplatform/cloud-sql-proxy
 ---
 
 > [Cloud SQL Auth Proxy](https://cloud.google.com/sql/docs/mysql/sql-proxy) enables secure, short-lived connections to Cloud SQL databases without exposing them to the public internet.

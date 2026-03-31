@@ -22,6 +22,10 @@ identifiers:
   - purl: pkg:docker/library/matomo
   - purl: pkg:docker/bitnami/matomo
   - purl: pkg:github/matomo-org/matomo
+  - purl: pkg:composer/matomo/matomo
+  - purl: pkg:deb/debian/matomo
+  - purl: pkg:deb/ubuntu/matomo
+  - purl: pkg:rpm/opensuse/matomo
   - cpe: cpe:2.3:a:matomo:matomo
 
 # eoas(x) = releaseDate(x+1)

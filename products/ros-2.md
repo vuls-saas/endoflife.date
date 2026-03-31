@@ -81,6 +81,8 @@ releases:
     releaseDate: 2017-12-08
     eol: 2018-12-31
     link: https://docs.ros.org/en/rolling/Releases/Release-Ardent-Apalone.html
+identifiers:
+  - purl: pkg:docker/library/ros
 ---
 
 > ROS 2 (Robot Operating System) provides libraries and tools to help software developers create

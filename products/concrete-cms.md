@@ -20,6 +20,7 @@ identifiers:
   - purl: pkg:composer/concrete5/core
   - purl: pkg:docker/fehrenbacher/concrete5
   - purl: pkg:github/concretecms/concretecms
+  - purl: pkg:composer/concrete5/concrete5
   - cpe: cpe:2.3:a:concretecms:concrete_cms
   - cpe: cpe:/a:concretecms:concrete_cms
 

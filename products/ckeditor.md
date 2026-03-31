@@ -11,6 +11,9 @@ staleReleaseThresholdDays: 40 # so that maintainers are reminded to manually upd
 
 identifiers:
   - repology: ckeditor
+  - purl: pkg:deb/debian/ckeditor
+  - purl: pkg:deb/ubuntu/ckeditor
+  - purl: pkg:rpm/fedora/ckeditor
   - cpe: cpe:/a:ckeditor:ckeditor
   - cpe: cpe:2.3:a:ckeditor:ckeditor
 

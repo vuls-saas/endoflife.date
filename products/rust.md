@@ -19,6 +19,13 @@ auto:
 
 identifiers:
   - repology: rust
+  - purl: pkg:github/rust-lang/rust
+  - purl: pkg:docker/library/rust
+  - purl: pkg:apk/alpine/rust
+  - purl: pkg:rpm/centos/rust
+  - purl: pkg:rpm/fedora/rust
+  - purl: pkg:rpm/opensuse/rust
+  - purl: pkg:alpm/arch/rust
   - cpe: cpe:2.3:a:rust-lang:rust
 
 # eol(x) = releaseDate(x+1)
