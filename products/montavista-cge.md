@@ -24,7 +24,7 @@ releases:
   - releaseCycle: "6.0"
     releaseDate: 2010-10-01
     eol: 2022-03-31
-    eoes: false # ELTM added per press release, but end date unknown. To be confirmed with customer.
+    eoes: 2024-03-31 # EOL + 2 years ELTM per press release
     # https://www.mvista.com/jp/about_press/detail/extend-support-for-cge6-jp
 
   - releaseCycle: "5.1"
