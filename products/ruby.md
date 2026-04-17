@@ -10,16 +10,6 @@ changelogTemplate: https://github.com/ruby/ruby/releases/tag/v{{'__LATEST__'|rep
 # changelogTemplate: "https://rubychangelog.com/versions-all/#ruby-{{'__LATEST__'|replace:'.',''}}"   for archive purposes
 eolColumn: Support Status
 
-# Upstream does not support filtering https://git.ruby-lang.org/ruby.git
-auto:
-  methods:
-    - git: https://github.com/ruby/ruby.git
-      # See https://www.ruby-lang.org/en/news/2013/12/21/ruby-version-policy-changes-with-2-1-0/
-      # The meaning of patch and tiny below is as per the new policy
-      # Starting with 4.0, the tags use dots instead of underscores
-      regex: ^v(?P<major>\d+)(_|\.)(?P<minor>\d+)(_|\.)(?P<patch>\d{1,3})(_|\.)?(?P<tiny>\d+)?$
-      template: "{{major}}.{{minor}}.{{patch}}{%if tiny %}p{{tiny}}{%endif%}"
-
 identifiers:
   - repology: ruby
   - purl: pkg:docker/library/ruby
@@ -31,6 +21,17 @@ identifiers:
   - purl: pkg:rpm/opensuse/ruby
   - purl: pkg:alpm/arch/ruby
   - cpe: cpe:2.3:a:ruby-lang:ruby
+
+
+# Upstream does not support filtering https://git.ruby-lang.org/ruby.git
+auto:
+  methods:
+    - git: https://github.com/ruby/ruby.git
+      # See https://www.ruby-lang.org/en/news/2013/12/21/ruby-version-policy-changes-with-2-1-0/
+      # The meaning of patch and tiny below is as per the new policy
+      # Starting with 4.0, the tags use dots instead of underscores
+      regex: ^v(?P<major>\d+)(_|\.)(?P<minor>\d+)(_|\.)(?P<patch>\d{1,3})(_|\.)?(?P<tiny>\d+)?$
+      template: "{{major}}.{{minor}}.{{patch}}{%if tiny %}p{{tiny}}{%endif%}"
 
 releases:
   - releaseCycle: "4.0"

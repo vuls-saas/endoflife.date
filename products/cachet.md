@@ -7,6 +7,10 @@ iconSlug: cachet
 permalink: /cachet
 changelogTemplate: https://github.com/cachethq/cachet/releases/tag/v__LATEST__
 
+identifiers:
+  - purl: pkg:github/cachethq/cachet
+  - purl: pkg:composer/cachethq/cachet
+
 auto:
   methods:
     - git: https://github.com/cachethq/cachet.git
@@ -62,9 +66,6 @@ releases:
     latest: "1.0.0"
     latestReleaseDate: 2015-06-19
 
-identifiers:
-  - purl: pkg:github/cachethq/cachet
-  - purl: pkg:composer/cachethq/cachet
 ---
 
 > [Cachet](https://cachethq.io/) is an open-source, self-hosted status page system designed to help you keep track of your system status and share it with your user base.

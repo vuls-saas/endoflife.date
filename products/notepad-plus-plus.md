@@ -6,13 +6,13 @@ iconSlug: notepadplusplus
 permalink: /notepad-plus-plus
 changelogTemplate: "https://notepad-plus-plus.org/downloads/v__LATEST__/"
 
-auto:
-  methods:
-    - git: https://github.com/notepad-plus-plus/notepad-plus-plus
-
 identifiers:
   - repology: notepad%2B%2B
   - purl: pkg:github/notepad-plus-plus/notepad-plus-plus
+
+auto:
+  methods:
+    - git: https://github.com/notepad-plus-plus/notepad-plus-plus
 
 # eol(x) = releaseDate(x+1)
 releases:

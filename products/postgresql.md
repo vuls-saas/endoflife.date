@@ -14,16 +14,6 @@ releasePolicyLink: https://www.postgresql.org/support/versioning/
 changelogTemplate: https://www.postgresql.org/docs/release/__LATEST__/
 eolColumn: Support Status
 
-auto:
-  methods:
-    - git: https://github.com/postgres/postgres.git
-      regex: ^REL_?(?P<major>[1-9]\d*)_(?P<minor>\d+)_?(?P<patch>\d+)?$
-    - release_table: https://www.postgresql.org/support/versioning/
-      fields:
-        releaseCycle: "Version"
-        releaseDate: "First Release"
-        eol: "Final Release"
-
 identifiers:
   - repology: postgresql
   - purl: pkg:generic/postgresql
@@ -36,6 +26,16 @@ identifiers:
   - purl: pkg:alpm/arch/postgresql
   - cpe: cpe:2.3:a:postgresql:postgresql
   - cpe: cpe:/a:postgresql:postgresql
+
+auto:
+  methods:
+    - git: https://github.com/postgres/postgres.git
+      regex: ^REL_?(?P<major>[1-9]\d*)_(?P<minor>\d+)_?(?P<patch>\d+)?$
+    - release_table: https://www.postgresql.org/support/versioning/
+      fields:
+        releaseCycle: "Version"
+        releaseDate: "First Release"
+        eol: "Final Release"
 
 releases:
   - releaseCycle: "18"

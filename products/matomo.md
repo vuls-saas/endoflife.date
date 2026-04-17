@@ -13,10 +13,6 @@ changelogTemplate: https://github.com/matomo-org/matomo/releases/tag/__LATEST__
 eoasColumn: true
 eolColumn: Long Term Support
 
-auto:
-  methods:
-    - git: https://github.com/matomo-org/matomo.git
-
 identifiers:
   - repology: matomo
   - purl: pkg:docker/library/matomo
@@ -27,6 +23,10 @@ identifiers:
   - purl: pkg:deb/ubuntu/matomo
   - purl: pkg:rpm/opensuse/matomo
   - cpe: cpe:2.3:a:matomo:matomo
+
+auto:
+  methods:
+    - git: https://github.com/matomo-org/matomo.git
 
 # eoas(x) = releaseDate(x+1)
 # eol(x) documented on https://matomo.org/blog/2016/01/announcing-long-term-support-in-matomo-the-analytics-platform-for-your-mission-critical-projects/

@@ -13,10 +13,6 @@ eolColumn: Supported
 versionCommand: rustc --version
 changelogTemplate: https://github.com/rust-lang/rust/releases/tag/__LATEST__
 
-auto:
-  methods:
-    - git: https://github.com/rust-lang/rust.git
-
 identifiers:
   - repology: rust
   - purl: pkg:github/rust-lang/rust
@@ -27,6 +23,10 @@ identifiers:
   - purl: pkg:rpm/opensuse/rust
   - purl: pkg:alpm/arch/rust
   - cpe: cpe:2.3:a:rust-lang:rust
+
+auto:
+  methods:
+    - git: https://github.com/rust-lang/rust.git
 
 # eol(x) = releaseDate(x+1)
 releases:

@@ -10,6 +10,9 @@ alternate_urls:
 changelogTemplate: "https://hop.apache.org/blog/{{'__LATEST_RELEASE_DATE__'|split:'-'|pop|join:'/'}}/hop-__LATEST__/"
 eolColumn: Support
 
+identifiers:
+  - purl: pkg:maven/org.apache.hop/hop-engine
+
 auto:
   methods:
     - maven: "org.apache.hop/hop-engine"
@@ -163,8 +166,6 @@ releases:
     latestReleaseDate: 2021-10-05
     link: https://hop.apache.org/blog/2021/10/hop-1.0.0/
 
-identifiers:
-  - purl: pkg:maven/org.apache.hop/hop-engine
 ---
 
 > [Apache Hop](https://hop.apache.org/), short for Hop Orchestration Platform, is an open source

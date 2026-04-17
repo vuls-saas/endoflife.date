@@ -11,6 +11,10 @@ changelogTemplate: "https://github.com/micronaut-projects/micronaut-core/release
 eoasColumn: Active Development
 eolColumn: Active Maintenance
 
+identifiers:
+  - purl: pkg:github/micronaut-projects/micronaut-core
+  - purl: pkg:maven/io.micronaut/micronaut-core
+
 auto:
   methods:
     - git: https://github.com/micronaut-projects/micronaut-core.git
@@ -44,9 +48,6 @@ releases:
     latest: "1.3.7"
     latestReleaseDate: 2020-07-10
 
-identifiers:
-  - purl: pkg:github/micronaut-projects/micronaut-core
-  - purl: pkg:maven/io.micronaut/micronaut-core
 ---
 
 > [Micronaut](https://micronaut.io/) is a modern, JVM-based, full-stack framework for building

@@ -15,6 +15,7 @@ eoasColumn: true
 eoesColumn: "Commercial Support"
 
 identifiers:
+  - repology: nodejs
   - purl: pkg:generic/node
   - purl: pkg:docker/circleci/node
   - purl: pkg:docker/library/node
@@ -27,7 +28,6 @@ identifiers:
   - purl: pkg:rpm/centos/nodejs
   - purl: pkg:alpm/arch/nodejs
   - cpe: cpe:2.3:a:nodejs:node.js
-  - repology: nodejs
 
 auto:
   methods:

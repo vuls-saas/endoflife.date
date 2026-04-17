@@ -8,10 +8,6 @@ releasePolicyLink: https://community.openvpn.net/openvpn/wiki/SupportedVersions
 changelogTemplate: https://github.com/OpenVPN/openvpn/blob/release/__RELEASE_CYCLE__/ChangeLog
 eoasColumn: Full Stable Support
 
-auto:
-  methods:
-    - git: https://github.com/OpenVPN/openvpn.git
-
 identifiers:
   - repology: openvpn
   - purl: pkg:github/openvpn/openvpn
@@ -22,6 +18,10 @@ identifiers:
   - purl: pkg:rpm/opensuse/openvpn
   - purl: pkg:alpm/arch/openvpn
   - cpe: cpe:2.3:a:openvpn:openvpn
+
+auto:
+  methods:
+    - git: https://github.com/OpenVPN/openvpn.git
 
 # releaseDate and eol https://community.openvpn.net/openvpn/wiki/SupportedVersions
 releases:

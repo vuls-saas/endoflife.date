@@ -6,6 +6,9 @@ permalink: /otobo
 releasePolicyLink: https://otobo.io/en/service-management-platform/otobo-download/
 changelogTemplate: https://github.com/RotherOSS/otobo/blob/rel-{{"__RELEASE_CYCLE__" | replace:'.','_'}}/CHANGES.md
 
+identifiers:
+  - purl: pkg:github/rotheross/otobo
+
 auto:
   methods:
     - git: https://github.com/RotherOSS/otobo.git
@@ -31,8 +34,6 @@ releases:
     latest: "10.0.27"
     latestReleaseDate: 2025-10-23
 
-identifiers:
-  - purl: pkg:github/rotheross/otobo
 ---
 
 > [OTOBO](https://otobo.io/) is a free and open-source ticketing system forked from OTRS Community

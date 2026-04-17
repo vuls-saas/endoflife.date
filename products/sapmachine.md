@@ -8,6 +8,10 @@ permalink: /sapmachine
 versionCommand: java -version
 releasePolicyLink: https://github.com/SAP/SapMachine/wiki/Security-Updates,-Maintenance-and-Support
 
+identifiers:
+  - purl: pkg:github/sap/sapmachine
+  - purl: pkg:docker/library/sapmachine
+
 auto:
   methods:
     - github_releases: SAP/SapMachine
@@ -117,9 +121,6 @@ releases:
     latest: "10.0.2"
     latestReleaseDate: 2026-03-11
 
-identifiers:
-  - purl: pkg:github/sap/sapmachine
-  - purl: pkg:docker/library/sapmachine
 ---
 
 > [SapMachine](https://sap.github.io/SapMachine/) is a [GPLv2 with CPE](https://openjdk.org/legal/gplv2+ce.html)

@@ -17,12 +17,11 @@ customFields:
     link: https://kyverno.io/docs/installation/#compatibility-matrix
 
 identifiers:
+  - repology: kyverno
   - purl: pkg:github/kyverno/kyverno
   - purl: pkg:docker/nirmata/kyverno
-  - repology: kyverno
   - purl: pkg:oci/kyverno?repository_url=cgr.dev/chainguard
   - purl: pkg:rpm/opensuse/kyverno
-  - purl: pkg:golang/github.com/kyverno/kyverno
   - cpe: cpe:2.3:a:kyverno:kyverno
 
 auto:

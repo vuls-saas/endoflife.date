@@ -12,10 +12,6 @@ customFields:
     label: PHP versions
     description: Supported PHP versions range
 
-auto:
-  methods:
-    - git: https://github.com/guzzle/guzzle.git
-
 identifiers:
   - repology: guzzle
   - purl: pkg:composer/guzzlehttp/guzzle
@@ -24,6 +20,10 @@ identifiers:
   - purl: pkg:deb/ubuntu/guzzle
   - cpe: cpe:/a:guzzlephp:guzzle
   - cpe: cpe:2.3:a:guzzlephp:guzzle
+
+auto:
+  methods:
+    - git: https://github.com/guzzle/guzzle.git
 
 # EOL dates are documented on https://github.com/guzzle/guzzle?tab=readme-ov-file#version-guidance.
 releases:

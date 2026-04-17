@@ -9,6 +9,12 @@ versionCommand: java -version
 releasePolicyLink: https://learn.microsoft.com/java/openjdk/support
 changelogTemplate: "https://learn.microsoft.com/java/openjdk/release-notes#openjdk-{{'__RELEASE_CYCLE__'|replace:'.',''}}"
 
+identifiers:
+  - purl: pkg:github/microsoft/openjdk-jdk11u
+  - purl: pkg:github/microsoft/openjdk-jdk17u
+  - purl: pkg:github/microsoft/openjdk-jdk21u
+  - purl: pkg:github/microsoft/openjdk-jdk25u
+
 # There is one repository for each major LTS release.
 auto:
   methods:
@@ -62,11 +68,6 @@ releases:
     latest: "11.0.30"
     latestReleaseDate: 2026-01-21
 
-identifiers:
-  - purl: pkg:github/microsoft/openjdk-jdk11u
-  - purl: pkg:github/microsoft/openjdk-jdk17u
-  - purl: pkg:github/microsoft/openjdk-jdk21u
-  - purl: pkg:github/microsoft/openjdk-jdk25u
 ---
 
 > The [Microsoft Build of OpenJDK](https://learn.microsoft.com/java/openjdk/) is a [GPLv2 with CPE](https://openjdk.org/legal/gplv2+ce.html)
