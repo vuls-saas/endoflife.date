@@ -20,6 +20,7 @@ identifiers:
   - purl: pkg:rpm/fedora/erlang
   - purl: pkg:rpm/opensuse/erlang
   - purl: pkg:alpm/arch/erlang
+  - cpe: cpe:2.3:a:erlang:erlang\/otp
   - cpe: cpe:/a:erlang:erlang%2fotp
 
 auto:
