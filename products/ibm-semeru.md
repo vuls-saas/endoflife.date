@@ -49,6 +49,9 @@ auto:
     - github_releases: ibmruntimes/semeru25-binaries
       regex: '^jdk-(?P<version>[\d\.+]+)_openj9-[\d\.]+$'
       template: "{{version}}"
+    - github_releases: ibmruntimes/semeru26-binaries
+      regex: '^jdk-(?P<version>[\d\.+]+)_openj9-[\d\.]+$'
+      template: "{{version}}"
     - release_table: https://www.ibm.com/support/pages/node/6451203
       fields:
         releaseCycle: "IBM Semeru Runtimes version"
@@ -57,6 +60,12 @@ auto:
 # For LTS releases, EOL dates can be found on https://www.ibm.com/support/pages/node/6451203.
 # For non-LTS releases, EOL dates is the release date plus 6 months.
 releases:
+  - releaseCycle: "26"
+    releaseDate: 2026-03-18
+    eol: 2026-09-30
+    latest: "26+35"
+    latestReleaseDate: 2026-03-18
+
   - releaseCycle: "25"
     lts: true
     releaseDate: 2025-09-25

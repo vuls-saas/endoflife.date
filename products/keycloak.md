@@ -10,11 +10,11 @@ changelogTemplate: "https://www.keycloak.org/docs/latest/release_notes/index.htm
 eolColumn: Supported
 
 identifiers:
+  - repology: keycloak
   - purl: pkg:github/keycloak/keycloak
   - purl: pkg:apk/alpine/keycloak
   - purl: pkg:alpm/arch/keycloak
   - purl: pkg:maven/org.keycloak/keycloak-core
-  - repology: keycloak
   - cpe: cpe:2.3:a:redhat:keycloak
 
 auto:
@@ -23,11 +23,17 @@ auto:
 
 # eol(x) = release(x+1)
 releases:
+  - releaseCycle: "26.6"
+    releaseDate: 2026-04-08
+    eol: false
+    latest: "26.6.0"
+    latestReleaseDate: 2026-04-08
+
   - releaseCycle: "26.5"
     releaseDate: 2026-01-06
-    eol: false
-    latest: "26.5.6"
-    latestReleaseDate: 2026-03-19
+    eol: 2026-04-08
+    latest: "26.5.7"
+    latestReleaseDate: 2026-04-02
 
   - releaseCycle: "26.4"
     releaseDate: 2025-09-30

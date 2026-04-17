@@ -13,6 +13,7 @@ identifiers:
   - repology: joomla
   - purl: pkg:github/joomla/joomla-cms
   - purl: pkg:docker/library/joomla
+  - cpe: cpe:2.3:a:joomla:joomla\!
 
 auto:
   methods:
@@ -24,8 +25,8 @@ releases:
     releaseDate: 2025-10-14
     eoas: 2028-10-17
     eol: 2029-10-16
-    latest: "6.0.3"
-    latestReleaseDate: 2026-02-06
+    latest: "6.1.0"
+    latestReleaseDate: 2026-04-14
     # check later for removal: the link with changelogTemplate does not work (yet)
     link: https://www.joomla.org/announcements/release-news/5939-joomla-6-0-and-joomla-5-4-are-here.html
 
@@ -33,8 +34,8 @@ releases:
     releaseDate: 2023-10-14
     eoas: 2026-10-13
     eol: 2027-10-12
-    latest: "5.4.3"
-    latestReleaseDate: 2026-02-06
+    latest: "5.4.112"
+    latestReleaseDate: 2025-07-22
     # check later for removal: the link with changelogTemplate does not work (yet)
     link: https://www.joomla.org/announcements/release-news/5900-joomla-5-0-and-joomla-4-4-are-here
 

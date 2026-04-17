@@ -19,13 +19,17 @@ auto:
   methods:
     - git: https://github.com/micronaut-projects/micronaut-core.git
 
+identifiers:
+  - purl: pkg:github/micronaut-projects/micronaut-core
+  - purl: pkg:maven/io.micronaut/micronaut-core
+
 releases:
   - releaseCycle: "4"
     releaseDate: 2023-07-11
     eoas: false
     eol: false
-    latest: "4.10.18"
-    latestReleaseDate: 2026-03-13
+    latest: "4.10.21"
+    latestReleaseDate: 2026-04-10
 
   - releaseCycle: "3"
     releaseDate: 2021-08-18

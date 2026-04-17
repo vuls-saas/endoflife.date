@@ -14,7 +14,7 @@ eolColumn: Support
 identifiers:
   - purl: pkg:npm/renovate
   - purl: pkg:docker/renovate/renovate
-  - purl: pkg:oci/renovate?repository_url=ghcr.io/renovate
+  - purl: pkg:oci/renovate?repository_url=ghcr.io/renovatebot
   - purl: pkg:brew/renovate
   - purl: pkg:github/renovatebot/renovate
   - repology: renovate
@@ -28,8 +28,8 @@ releases:
   - releaseCycle: "43"
     releaseDate: 2026-01-29
     eol: false
-    latest: "43.89.2"
-    latestReleaseDate: 2026-03-24
+    latest: "43.120.1"
+    latestReleaseDate: 2026-04-14
   - releaseCycle: "42"
     releaseDate: 2025-08-14
     eol: 2026-01-29

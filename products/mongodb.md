@@ -27,6 +27,7 @@ identifiers:
   - purl: pkg:docker/library/mongo
   - repology: mongodb
   - cpe: cpe:2.3:a:mongodb:mongodb
+  - cpe: cpe:2.3:a:mongodb-org-server:mongodb-org-server
 
 auto:
   methods:

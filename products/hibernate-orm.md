@@ -38,14 +38,23 @@ auto:
 # Since 7 (may be more ?) : eol(x) = releaseDate(x+1), except if marked as stable on https://hibernate.org/orm/releases/.
 # Supported Java/Jakarta EE versions available on https://hibernate.org/orm/releases/.
 releases:
+  - releaseCycle: "7.3"
+    supportedJavaVersions: "17, 21, 25 or 26"
+    supportedJakartaEEVersions: "11"
+    releaseDate: 2026-03-16
+    eol: false
+    eoes: false
+    latest: "7.3.1"
+    latestReleaseDate: 2026-04-10
+
   - releaseCycle: "7.2"
     supportedJavaVersions: "17, 21 or 25"
     supportedJakartaEEVersions: "11"
     releaseDate: 2025-10-08
-    eol: false
+    eol: 2026-03-16
     eoes: false
-    latest: "7.2.7"
-    latestReleaseDate: 2026-03-15
+    latest: "7.2.11"
+    latestReleaseDate: 2026-04-12
 
   - releaseCycle: "7.1"
     supportedJavaVersions: "17, 21 or 25"
@@ -53,8 +62,8 @@ releases:
     releaseDate: 2025-08-08
     eol: 2025-10-08
     eoes: false
-    latest: "7.1.20"
-    latestReleaseDate: 2026-03-22
+    latest: "7.1.23"
+    latestReleaseDate: 2026-04-12
 
   - releaseCycle: "7.0"
     supportedJavaVersions: "17, 21 or 23"
@@ -71,8 +80,8 @@ releases:
     releaseDate: 2024-08-08
     eol: true
     eoes: false
-    latest: "6.6.45"
-    latestReleaseDate: 2026-03-22
+    latest: "6.6.48"
+    latestReleaseDate: 2026-04-12
 
   - releaseCycle: "6.5"
     supportedJavaVersions: "11, 17, 21, 22 or 23"
