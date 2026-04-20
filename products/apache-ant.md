@@ -19,6 +19,9 @@ identifiers:
   - purl: pkg:github/apache/ant
   - purl: pkg:maven/org.apache.ant/ant
   - purl: pkg:rpm/fedora/ant
+  - purl: pkg:rpm/centos/ant
+  - purl: pkg:rpm/opensuse/ant
+  - purl: pkg:alpm/arch/ant
 
 auto:
   methods:

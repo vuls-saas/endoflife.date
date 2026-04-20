@@ -9,6 +9,10 @@ changelogTemplate: https://github.com/thumbor/thumbor/releases/tag/__LATEST__
 
 identifiers:
   - repology: thumbor
+  - purl: pkg:github/thumbor/thumbor
+  - purl: pkg:deb/debian/thumbor
+  - purl: pkg:deb/ubuntu/thumbor
+  - purl: pkg:pypi/thumbor
 
 auto:
   methods:

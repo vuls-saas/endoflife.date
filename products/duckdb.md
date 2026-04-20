@@ -11,6 +11,10 @@ eolColumn: Support Status
 
 identifiers:
   - repology: duckdb
+  - purl: pkg:github/duckdb/duckdb
+  - purl: pkg:apk/alpine/duckdb
+  - purl: pkg:deb/debian/duckdb
+  - purl: pkg:alpm/arch/duckdb
   - cpe: cpe:2.3:a:duckdb:duckdb
 
 auto:

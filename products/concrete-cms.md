@@ -18,6 +18,7 @@ auto:
 identifiers:
   - repology: php:concrete-cms
   - purl: pkg:composer/concrete5/core
+  - purl: pkg:composer/concrete5/concrete5
   - purl: pkg:docker/fehrenbacher/concrete5
   - purl: pkg:github/concretecms/concretecms
   - cpe: cpe:2.3:a:concretecms:concrete_cms

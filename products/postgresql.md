@@ -14,6 +14,19 @@ releasePolicyLink: https://www.postgresql.org/support/versioning/
 changelogTemplate: https://www.postgresql.org/docs/release/__LATEST__/
 eolColumn: Support Status
 
+identifiers:
+  - repology: postgresql
+  - purl: pkg:generic/postgresql
+  - purl: pkg:docker/library/postgres
+  - purl: pkg:deb/ubuntu/postgresql
+  - purl: pkg:github/postgres/postgres
+  - purl: pkg:rpm/centos/postgresql
+  - purl: pkg:rpm/fedora/postgresql
+  - purl: pkg:rpm/opensuse/postgresql
+  - purl: pkg:alpm/arch/postgresql
+  - cpe: cpe:2.3:a:postgresql:postgresql
+  - cpe: cpe:/a:postgresql:postgresql
+
 auto:
   methods:
     - git: https://github.com/postgres/postgres.git
@@ -23,14 +36,6 @@ auto:
         releaseCycle: "Version"
         releaseDate: "First Release"
         eol: "Final Release"
-
-identifiers:
-  - repology: postgresql
-  - purl: pkg:generic/postgresql
-  - purl: pkg:docker/library/postgres
-  - purl: pkg:deb/ubuntu/postgresql
-  - cpe: cpe:2.3:a:postgresql:postgresql
-  - cpe: cpe:/a:postgresql:postgresql
 
 releases:
   - releaseCycle: "18"
