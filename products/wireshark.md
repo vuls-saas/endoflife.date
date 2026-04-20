@@ -30,7 +30,6 @@ auto:
       # https://regex101.com/r/fHvpY1/2
       regex: ^wireshark-(?P<major>\d+)\.?(?P<minor>\d*[02468])\.?(?P<patch>\d+)?\.?(?P<tiny>\d+)?$
 
-
 # eol(x) = eol(x.y+4) or see EOS here https://wiki.wireshark.org/Development/LifeCycle
 # eoas(x) = releaseDate(x+1)
 # Only even minor releases are stable releases

@@ -13,6 +13,7 @@ changelogTemplate: "https://github.com/JuliaLang/julia/blob/v__LATEST__/NEWS.md"
 auto:
   methods:
     - git: https://github.com/JuliaLang/julia.git
+
 identifiers:
   - repology: julia
   - purl: pkg:github/julialang/julia
