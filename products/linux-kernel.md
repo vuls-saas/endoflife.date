@@ -32,21 +32,21 @@ releases:
   - releaseCycle: "7.0"
     releaseDate: 2026-04-12
     eol: false
-    latest: "7.0"
-    latestReleaseDate: 2026-04-12
+    latest: "7.0.2"
+    latestReleaseDate: 2026-04-27
 
   - releaseCycle: "6.19"
     releaseDate: 2026-02-08
-    eol: false
-    latest: "6.19.13"
-    latestReleaseDate: 2026-04-18
+    eol: 2026-04-22 # announced https://lore.kernel.org/all/2026042220-coastline-flirt-ad3c@gregkh/
+    latest: "6.19.14"
+    latestReleaseDate: 2026-04-22
 
   - releaseCycle: "6.18"
     lts: true
     releaseDate: 2025-11-30
     eol: 2028-12-31 # announced https://git.kernel.org/pub/scm/docs/kernel/website.git/commit/?id=d04587da86a3464881e0c97aabddd2c271105698
-    latest: "6.18.23"
-    latestReleaseDate: 2026-04-18
+    latest: "6.18.25"
+    latestReleaseDate: 2026-04-27
 
   - releaseCycle: "6.17"
     releaseDate: 2025-09-28
@@ -82,8 +82,8 @@ releases:
     lts: true
     releaseDate: 2024-11-17
     eol: 2028-12-31 # Projected EOL from https://git.kernel.org/pub/scm/docs/kernel/website.git/commit/?id=d04587da86a3464881e0c97aabddd2c271105698
-    latest: "6.12.82"
-    latestReleaseDate: 2026-04-18
+    latest: "6.12.84"
+    latestReleaseDate: 2026-04-27
 
   - releaseCycle: "6.11"
     releaseDate: 2024-09-15
@@ -119,8 +119,8 @@ releases:
     lts: true
     releaseDate: 2023-10-30
     eol: 2027-12-31 # Projected EOL from https://git.kernel.org/pub/scm/docs/kernel/website.git/commit/?id=d04587da86a3464881e0c97aabddd2c271105698
-    latest: "6.6.135"
-    latestReleaseDate: 2026-04-18
+    latest: "6.6.136"
+    latestReleaseDate: 2026-04-27
 
   - releaseCycle: "6.5"
     releaseDate: 2023-08-27
