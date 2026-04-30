@@ -10,6 +10,7 @@ changelogTemplate: https://raw.githubusercontent.com/redis/redis/__RELEASE_CYCLE
 eoasColumn: true
 
 identifiers:
+  - repology: redis
   - purl: pkg:generic/redis
   - purl: pkg:deb/ubuntu/redis
   - purl: pkg:deb/debian/redis
@@ -23,7 +24,10 @@ identifiers:
   - purl: pkg:docker/cimg/redis
   - purl: pkg:docker/ubuntu/redis
   - purl: pkg:brew/redis/redis
-  - repology: redis
+  - purl: pkg:github/redis/redis
+  - purl: pkg:apk/alpine/redis
+  - purl: pkg:rpm/fedora/redis
+  - purl: pkg:rpm/opensuse/redis
   - cpe: cpe:2.3:a:redis:redis
 
 auto:

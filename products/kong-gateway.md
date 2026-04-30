@@ -18,6 +18,7 @@ auto:
 
 identifiers:
   - purl: pkg:github/Kong/kong
+  - purl: pkg:docker/library/kong
   - cpe: cpe:2.3:a:konghq:kong_gateway
 
 # Policy is not clear, maybe a more precise answer will be available someday on

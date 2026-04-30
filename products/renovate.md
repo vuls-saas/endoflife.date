@@ -16,6 +16,7 @@ identifiers:
   - purl: pkg:docker/renovate/renovate
   - purl: pkg:oci/renovate?repository_url=ghcr.io/renovatebot
   - purl: pkg:brew/renovate
+  - purl: pkg:github/renovatebot/renovate
   - repology: renovate
 
 auto:

@@ -11,6 +11,7 @@ changelogTemplate: https://fedoraproject.org/wiki/Releases/__RELEASE_CYCLE__/Cha
 latestColumn: false
 
 identifiers:
+  - purl: pkg:docker/library/fedora
   - cpe: cpe:/o:fedoraproject:fedora
   - cpe: cpe:2.3:o:fedoraproject:fedora
 

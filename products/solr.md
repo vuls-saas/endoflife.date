@@ -14,6 +14,10 @@ changelogTemplate: "https://solr.apache.org/docs/{{'__LATEST__'|replace:'.','_'}
 
 identifiers:
   - repology: solr
+  - purl: pkg:github/apache/solr
+  - purl: pkg:docker/library/solr
+  - purl: pkg:alpm/arch/solr
+  - purl: pkg:maven/org.apache.solr/solr-core
   - cpe: cpe:/a:apache:solr
   - cpe: cpe:2.3:a:apache:solr
 

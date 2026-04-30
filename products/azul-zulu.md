@@ -21,6 +21,7 @@ customFields:
 
 identifiers:
   - repology: zulu-openjdk
+  - purl: pkg:docker/library/azul-zulu
   - cpe: cpe:/a:azul:zulu
   - cpe: cpe:2.3:a:azul:zulu
 

@@ -22,6 +22,8 @@ identifiers:
   - repology: angular.js
   - purl: pkg:npm/angular
   - purl: pkg:github/angular/angular.js
+  - purl: pkg:deb/debian/angular.js
+  - purl: pkg:deb/ubuntu/angular.js
   - cpe: cpe:2.3:a:angularjs:angularjs
 
 auto:
