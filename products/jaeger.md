@@ -10,6 +10,7 @@ eolColumn: Security Support
 
 identifiers:
   - repology: jaeger
+  - purl: pkg:github/jaegertracing/jaeger
   - cpe: cpe:2.3:a:linuxfoundation:jaeger
 
 auto:

@@ -15,6 +15,11 @@ identifiers:
   - purl: pkg:docker/icinga/icinga2
   - purl: pkg:github/Icinga/icinga2
   - purl: pkg:github/Icinga/icinga-core
+  - purl: pkg:apk/alpine/icinga2
+  - purl: pkg:deb/debian/icinga2
+  - purl: pkg:deb/ubuntu/icinga
+  - purl: pkg:deb/ubuntu/icinga2
+  - purl: pkg:rpm/opensuse/icinga2
   - cpe: cpe:2.3:a:icinga:icinga
 
 auto:

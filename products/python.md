@@ -22,6 +22,7 @@ customFields:
     link: https://peps.python.org/topic/release/
 
 identifiers:
+  - repology: python
   - purl: pkg:generic/python
   - purl: pkg:deb/ubuntu/python
   - purl: pkg:deb/ubuntu/python3.14
@@ -86,7 +87,9 @@ identifiers:
   - purl: pkg:docker/circleci/python
   - purl: pkg:docker/bitnami/python
   - purl: pkg:github/python/cpython
-  - repology: python
+  - purl: pkg:nuget/python
+  - purl: pkg:rpm/opensuse/python
+  - purl: pkg:alpm/arch/python
   - cpe: cpe:/a:python:python
   - cpe: cpe:2.3:a:python:python
 

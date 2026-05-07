@@ -22,6 +22,8 @@ customFields:
     description: PHP Compatibility
 
 identifiers:
+  - purl: pkg:github/magento/magento2
+  - purl: pkg:composer/magento/community-edition
   - cpe: cpe:/a:magento:magento
   - cpe: cpe:2.3:a:magento:magento
 

@@ -11,12 +11,16 @@ versionCommand: |-
   wforce -c
   > showVersion()
 changelogTemplate: "https://github.com/PowerDNS/weakforced/releases/tag/v__LATEST__"
-auto:
-  methods:
-    - git: https://github.com/PowerDNS/weakforced.git
 
 identifiers:
   - repology: weakforced
+  - purl: pkg:github/powerdns/weakforced
+  - purl: pkg:deb/debian/weakforced
+  - purl: pkg:deb/ubuntu/weakforced
+
+auto:
+  methods:
+    - git: https://github.com/PowerDNS/weakforced.git
 
 releases:
   - releaseCycle: "3.0"

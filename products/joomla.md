@@ -11,6 +11,8 @@ eoasColumn: true
 
 identifiers:
   - repology: joomla
+  - purl: pkg:github/joomla/joomla-cms
+  - purl: pkg:docker/library/joomla
   - cpe: cpe:2.3:a:joomla:joomla\!
 
 auto:

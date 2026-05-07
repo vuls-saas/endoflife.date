@@ -7,6 +7,7 @@ versionCommand: memcached -h
 changelogTemplate: "https://github.com/memcached/memcached/wiki/ReleaseNotes{{'__LATEST__'|replace:'.',''}}"
 
 identifiers:
+  - repology: memcached
   - purl: pkg:generic/memcached
   - purl: pkg:deb/ubuntu/memcached
   - purl: pkg:deb/debian/memcached
@@ -14,7 +15,11 @@ identifiers:
   - purl: pkg:rpm/redhat/memcached
   - purl: pkg:rpm/centos/memcached
   - purl: pkg:docker/library/memcached
-  - repology: memcached
+  - purl: pkg:github/memcached/memcached
+  - purl: pkg:apk/alpine/memcached
+  - purl: pkg:rpm/fedora/memcached
+  - purl: pkg:rpm/opensuse/memcached
+  - purl: pkg:alpm/arch/memcached
   - cpe: cpe:2.3:a:memcached:memcached
 
 auto:

@@ -13,6 +13,10 @@ eolColumn: Active Support
 eoesColumn: Security Support
 
 identifiers:
+  - purl: pkg:github/apache/pulsar
+  - purl: pkg:maven/org.apache.pulsar/pulsar
+  - purl: pkg:maven/org.apache.pulsar/pulsar-broker
+  - purl: pkg:maven/org.apache.pulsar/pulsar-bom
   - cpe: cpe:2.3:a:apache:pulsar
 
 auto:

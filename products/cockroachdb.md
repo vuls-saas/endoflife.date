@@ -15,6 +15,7 @@ eolColumn: Assistance Support
 
 identifiers:
   - repology: cockroachdb
+  - purl: pkg:github/cockroachdb/cockroach
 
 auto:
   methods:
