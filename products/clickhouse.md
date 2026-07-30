@@ -16,29 +16,35 @@ identifiers:
 
 auto:
   methods:
-    - git: https://github.com/ClickHouse/ClickHouse.git
+    - github_releases: ClickHouse/ClickHouse
       regex: ^v(?P<major>\d+)\.(?P<minor>\d+)\.(?P<patch>\d+)\.(?P<tiny>\d+)-(stable|lts)$
 
 # Non-LTS : eol(x) = releaseDate(x+3)
 # LTS : eol(x) = releaseDate(x) + 1 year
 releases:
+  - releaseCycle: "26.7"
+    releaseDate: 2026-07-22
+    eol: false
+    latest: "26.7.1.1315"
+    latestReleaseDate: 2026-07-22
+
   - releaseCycle: "26.6"
     releaseDate: 2026-06-25
     eol: false
     latest: "26.6.2.81"
-    latestReleaseDate: 2026-07-20
+    latestReleaseDate: 2026-07-21
 
   - releaseCycle: "26.5"
     releaseDate: 2026-05-21
     eol: false
-    latest: "26.5.5.8"
-    latestReleaseDate: 2026-07-01
+    latest: "26.5.6.64"
+    latestReleaseDate: 2026-07-23
 
   - releaseCycle: "26.4"
     releaseDate: 2026-05-05
-    eol: false
+    eol: 2026-07-22
     latest: "26.4.5.143"
-    latestReleaseDate: 2026-07-20
+    latestReleaseDate: 2026-07-22
 
   - releaseCycle: "26.3"
     lts: true
