@@ -24,11 +24,17 @@ auto:
     - npm: pnpm
 
 releases:
+  - releaseCycle: "12"
+    releaseDate: 2026-08-26
+    eol: false
+    latest: "12.2.1"
+    latestReleaseDate: 2026-09-01
+
   - releaseCycle: "11"
     releaseDate: 2026-04-28
-    eol: false
-    latest: "11.24.0"
-    latestReleaseDate: 2026-08-24
+    eol: 2027-04-30
+    latest: "11.25.0"
+    latestReleaseDate: 2026-08-29
 
   - releaseCycle: "10"
     releaseDate: 2025-01-07
