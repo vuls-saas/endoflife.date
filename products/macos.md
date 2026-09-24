@@ -29,7 +29,7 @@ releases:
     codename: "Golden Gate"
     releaseDate: 2026-09-14
     eol: false
-    latest: "27"
+    latest: "27.0"
     latestReleaseDate: 2026-09-14
 
   - releaseCycle: "26"
@@ -49,7 +49,7 @@ releases:
   - releaseCycle: "14"
     codename: "Sonoma"
     releaseDate: 2023-09-26
-    eol: false
+    eol: 2026-09-14
     latest: "14.8.9"
     latestReleaseDate: 2026-08-06
 
