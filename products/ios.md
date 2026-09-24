@@ -9,6 +9,7 @@ changelogTemplate: https://developer.apple.com/documentation/ios-ipados-release-
 eoasColumn: true
 
 identifiers:
+  - cpe: cpe:/o:apple:iphone_os
   - cpe: cpe:2.3:o:apple:iphone_os
 
 auto:
@@ -26,7 +27,7 @@ releases:
     releaseDate: 2026-09-14
     eoas: false
     eol: false
-    latest: "27"
+    latest: "27.0"
     latestReleaseDate: 2026-09-14
 
   - releaseCycle: "26"

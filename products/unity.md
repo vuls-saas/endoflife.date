@@ -17,6 +17,9 @@ auto:
   methods:
     - unity: https://services.api.unity.com/unity/editor/release/v1/releases
 
+identifiers:
+  - purl: pkg:chocolatey/unity
+
 # For update release : eol(x) = releaseDate(x+1)
 # For LTS : eol(x) = releaseDate + 2 years
 releases:
@@ -24,8 +27,8 @@ releases:
     releaseLabel: "6.6"
     releaseDate: 2026-08-31
     eol: false
-    latest: "6000.6.0f1"
-    latestReleaseDate: 2026-08-31
+    latest: "6000.6.2f1"
+    latestReleaseDate: 2026-09-18
 
   - releaseCycle: "6000.5"
     releaseLabel: "6.5"
@@ -70,8 +73,8 @@ releases:
     lts: 2024-10-16
     eol: 2026-10-16
     eoes: 2027-10-16
-    latest: "6000.0.83f1"
-    latestReleaseDate: 2026-09-02
+    latest: "6000.0.84f1"
+    latestReleaseDate: 2026-09-16
 
   - releaseCycle: "2023.2"
     releaseDate: 2023-11-14

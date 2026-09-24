@@ -30,6 +30,28 @@ auto:
     - openai_deprecations: https://developers.openai.com/api/docs/deprecations
 
 releases:
+  - releaseCycle: "gpt-image-2.5-sunburst"
+    releaseLabel: "GPT-Image-2.5 Sunburst"
+    aliases:
+      - gpt-image-2.5-sunburst
+      - gpt-image-2.5-sunburst-2026-09-08
+    releaseDate: 2026-09-08 # https://openai.com/index/introducing-chatgpt-images-2-5/
+    eoas: false
+    eol: false
+    link: "https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst"
+    recommendedReplacement: N/A
+
+  - releaseCycle: "gpt-image-2.5-flare"
+    releaseLabel: "GPT-Image-2.5 Flare"
+    aliases:
+      - gpt-image-2.5-flare
+      - gpt-image-2.5-flare-2026-09-08
+    releaseDate: 2026-09-03 # https://openai.com/index/introducing-chatgpt-images-2-5/
+    eoas: false
+    eol: false
+    link: "https://developers.openai.com/api/docs/models/gpt-image-2.5-flare"
+    recommendedReplacement: N/A
+
   - releaseCycle: "gpt-6-astra"
     releaseLabel: "GPT-6 Astra"
     aliases:
@@ -98,6 +120,17 @@ releases:
     eoas: false
     eol: false
     link: "https://developers.openai.com/api/docs/models/gpt-5.6-sol"
+    recommendedReplacement: N/A
+
+  - releaseCycle: "gpt-live-1"
+    releaseLabel: "GPT-Live 1"
+    aliases:
+      - gpt-live-1
+      - gpt-live-1
+    releaseDate: 2026-07-08 # https://openai.com/index/introducing-gpt-live/
+    eoas: false
+    eol: false
+    link: "https://developers.openai.com/api/docs/models/gpt-live-1"
     recommendedReplacement: N/A
 
   - releaseCycle: "gpt-realtime-2.1"
@@ -432,7 +465,7 @@ releases:
     eoas: 2026-03-24
     eol: 2026-09-24
     link: "https://developers.openai.com/api/docs/models/sora-2"
-    recommendedReplacement: N/A
+    recommendedReplacement: —
 
   - releaseCycle: "sora-2-pro"
     releaseLabel: "Sora 2 Pro"
@@ -443,7 +476,7 @@ releases:
     eoas: 2026-03-24
     eol: 2026-09-24
     link: "https://developers.openai.com/api/docs/models/sora-2-pro"
-    recommendedReplacement: N/A
+    recommendedReplacement: —
 
   - releaseCycle: "gpt-5-codex"
     releaseLabel: "GPT-5-Codex"
