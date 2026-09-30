@@ -5,7 +5,7 @@ category: app
 tags: mondoo
 permalink: /cnspec
 versionCommand: cnspec version
-releasePolicyLink: https://mondoo.com/docs/cnspec/cnspec-adv-install/update/
+releasePolicyLink: https://mondoo.com/docs/cnspec/install/update
 changelogTemplate: https://github.com/mondoohq/cnspec/releases/tag/v__LATEST__
 eoasColumn: true
 
@@ -26,8 +26,8 @@ releases:
     releaseDate: 2026-09-23
     eoas: false
     eol: false
-    latest: "14.0.0"
-    latestReleaseDate: 2026-09-23
+    latest: "14.2.0"
+    latestReleaseDate: 2026-09-29
 
   - releaseCycle: "13"
     releaseDate: 2026-03-10
