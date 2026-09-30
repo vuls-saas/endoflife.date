@@ -14,6 +14,11 @@ changelogTemplate: "https://docs.netapp.com/us-en/ontap/release-notes/whats-new-
 eolColumn: Full Support
 latestColumn: false # no public access to the latest patches
 
+identifiers:
+  - cpe: cpe:2.3:o:netapp:data_ontap
+
+# Releases are documented on https://mysupport.netapp.com/site/info/version-support.
+
 # The source table uses a rowspan for the product name, so the first row has the
 # expected columns while subsequent rows are shifted left under the same headers.
 # Note that https://mysupport.netapp.com/site/info/version-support was not used because it's harder to parse.

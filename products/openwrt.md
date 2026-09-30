@@ -14,6 +14,7 @@ eoasColumn: true
 
 identifiers:
   - purl: pkg:github/openwrt/openwrt
+  - cpe: cpe:2.3:o:openwrt:openwrt
 
 auto:
   methods:
