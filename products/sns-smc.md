@@ -51,7 +51,7 @@ releases:
     eoas: 2026-08-24
     eol: 2026-11-23
     lowestSNSVersion: '4.3'
-    highestSNSVersion: '4.8'
+    highestSNSVersion: '5.0'
 
   - releaseCycle: "3.7"
     releaseDate: 2024-12-17
@@ -122,6 +122,7 @@ releases:
     eol: 2017-03-31
     lowestSNSVersion: "2.5.0"
     highestSNSVersion: "4.7"
+
 
 
 
