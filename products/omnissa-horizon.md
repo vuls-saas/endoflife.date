@@ -39,6 +39,13 @@ identifiers:
   - cpe: cpe:2.3:a:vmware:horizon
 
 releases:
+  - releaseCycle: "8.2609"
+    releaseDate: 2026-10-22
+    eol: 2029-10-22
+    technicalGuidance: 2030-10-22
+    latest: "8.2609"
+    latestReleaseDate: 2026-10-22
+    
   - releaseCycle: "8.2606"
     releaseDate: 2026-08-24
     eol: 2029-08-24
