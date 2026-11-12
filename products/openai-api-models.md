@@ -161,7 +161,7 @@ releases:
     recommendedReplacement: N/A
 
   - releaseCycle: "gpt-live-1"
-    releaseLabel: "GPT-Live 1"
+    releaseLabel: "GPT-Live-1"
     aliases:
       - gpt-live-1
       - gpt-live-1
@@ -256,10 +256,10 @@ releases:
     aliases:
       - gpt-image-2-2026-04-21
     releaseDate: 2026-04-21 # https://openai.com/index/introducing-chatgpt-images-2-0/ (ChatGPT Images 2.0 launch; API model date inferred)
-    eoas: false
-    eol: false
+    eoas: 2026-11-10
+    eol: 2027-02-10
     link: "https://developers.openai.com/api/docs/models/gpt-image-2"
-    recommendedReplacement: N/A
+    recommendedReplacement: gpt-image-2.6-sunburst or gpt-image-2.6-flare
 
   - releaseCycle: "gpt-5.4-mini"
     releaseLabel: "GPT-5.4 Mini"
@@ -380,7 +380,7 @@ releases:
     eoas: 2026-06-02
     eol: 2026-12-01
     link: "https://developers.openai.com/api/docs/models/gpt-image-1.5"
-    recommendedReplacement: gpt-image-2.5-sunburst or gpt-image-2.5-flare
+    recommendedReplacement: gpt-image-2.6-sunburst or gpt-image-2.6-flare
 
   - releaseCycle: "gpt-5.2"
     releaseLabel: "GPT-5.2"
@@ -480,7 +480,7 @@ releases:
     eoas: 2026-06-02
     eol: 2026-12-01
     link: "https://developers.openai.com/api/docs/models/gpt-image-1-mini"
-    recommendedReplacement: gpt-image-2.5-sunburst or gpt-image-2.5-flare
+    recommendedReplacement: gpt-image-2.6-sunburst or gpt-image-2.6-flare
 
   - releaseCycle: "gpt-realtime-mini"
     releaseLabel: "GPT-Realtime Mini"
@@ -684,7 +684,7 @@ releases:
     eoas: 2026-06-02
     eol: 2026-12-01
     link: "https://developers.openai.com/api/docs/models/chatgpt-image-latest"
-    recommendedReplacement: gpt-image-2.5-sunburst or gpt-image-2.5-flare
+    recommendedReplacement: gpt-image-2.6-sunburst or gpt-image-2.6-flare
 
   - releaseCycle: "gpt-image-1"
     releaseLabel: "GPT-Image-1"
