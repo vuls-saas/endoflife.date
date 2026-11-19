@@ -11,6 +11,8 @@ releasePolicyLink: https://nixos.org/blog/announcements/
 changelogTemplate: https://nix.dev/manual/nix/latest/release-notes/rl-__RELEASE_CYCLE__
 
 identifiers:
+  - purl: pkg:docker/nixos/nix
+  - purl: pkg:github/NixOS/nix
   - repology: nix
   - cpe: cpe:2.3:a:nixos:nix
 

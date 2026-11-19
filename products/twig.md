@@ -11,6 +11,8 @@ auto:
     - git: https://github.com/twigphp/Twig.git
 
 identifiers:
+  - purl: pkg:composer/twig/twig
+  - purl: pkg:github/twigphp/Twig
   - repology: php:twig
   - cpe: cpe:2.3:a:symfony:twig
 
