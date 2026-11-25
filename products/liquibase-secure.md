@@ -39,9 +39,9 @@ releases:
   - releaseCycle: "6.0"
     releaseDate: 2026-09-29
     eoas: false
-    eol: 2028-11-03
-    latest: "6.0.1"
-    latestReleaseDate: 2026-11-03
+    eol: 2028-11-24
+    latest: "6.0.3"
+    latestReleaseDate: 2026-11-24
 
   - releaseCycle: "5.2"
     releaseDate: 2026-06-09
