@@ -27,17 +27,17 @@ identifiers:
 releases:
   - releaseCycle: "8"
     eol: false
-    supportedPHPVersions: ">=7.4,<8.6"
-    latest: "8.5.2"
+    supportedPHPVersions: ">=7.4,<8.7"
+    latest: "8.6.0"
     releaseDate: 2026-07-20
-    latestReleaseDate: 2026-11-17
+    latestReleaseDate: 2026-11-22
 
   - releaseCycle: "7"
     eol: false
-    supportedPHPVersions: ">=7.2.5, <8.6"
-    latest: "7.16.3"
+    supportedPHPVersions: ">=7.2.5, <8.7"
+    latest: "7.17.0"
     releaseDate: 2020-06-27
-    latestReleaseDate: 2026-11-17
+    latestReleaseDate: 2026-11-22
 
   - releaseCycle: "6"
     eol: 2023-10-31
